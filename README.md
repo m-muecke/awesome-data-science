@@ -4,7 +4,7 @@
 
 ### General
 #### Books
-- The Hitchhiker’s Guide to Python!\https://docs.python-guide.org/}
+- The Hitchhiker’s Guide to Python!\ https://docs.python-guide.org/
 - Automate the Boring Stuff with Python \newline \url{https://automatetheboringstuff.com/}
 - Whirwind Tour of Python \newline \url{https://github.com/jakevdp/WhirlwindTourOfPython}
 - Python Data Science Handbook \newline \url{https://jakevdp.github.io/PythonDataScienceHandbook/}
