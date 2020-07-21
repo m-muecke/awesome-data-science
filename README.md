@@ -69,29 +69,43 @@ https://www.coursera.org/specializations/investment-management-python-machine-le
 ## R
 ### General
 #### Books
-- Advanced R, Hadley Wickham \newline \url{http://adv-r.had.co.nz/}
-- Efficient R Programming, C. Gillespie and R. Lovelace \newline \url{https://csgillespie.github.io/efficientR/}
-- R Programming for Data Science, Roger D. Peng \newline \url{https://leanpub.com/rprogramming}
-- Mastering Software Development in R, Roger D. Peng \newline \url{https://bookdown.org/rdpeng/RProgDA/}
-- Text Mining with R \newline \url{https://www.tidytextmining.com/}
-- Awesome R \newline \url{https://github.com/qinwf/awesome-R}
-- Github Curated List: Data Science R \newline \url{https://github.com/ujjwalkarn/DataScienceR}
+- Advanced R, Hadley Wickham\
+http://adv-r.had.co.nz/
+- Efficient R Programming, C. Gillespie and R. Lovelace\
+https://csgillespie.github.io/efficientR/
+- R Programming for Data Science, Roger D. Peng\
+https://leanpub.com/rprogramming
+- Mastering Software Development in R, Roger D. Peng\
+https://bookdown.org/rdpeng/RProgDA/
+- Text Mining with R\
+https://www.tidytextmining.com/
+- Awesome R\
+https://github.com/qinwf/awesome-R
+- Github Curated List: Data Science R\
+https://github.com/ujjwalkarn/DataScienceR
 #### Courses
-- Mastering Software Development in R Specialization - Coursera \newline \url{https://www.coursera.org/specializations/r}
+- Mastering Software Development in R Specialization - Coursera\
+https://www.coursera.org/specializations/r
 ### Data Science
 #### Books
-- R for Data Science, Hadley Wickham \newline \url{http://r4ds.had.co.nz/}
+- R for Data Science, Hadley Wickham\
+http://r4ds.had.co.nz/
 #### Courses
-- Data Science Specialization - Coursera \newline \url{https://www.coursera.org/specializations/jhu-data-science}
+- Data Science Specialization - Coursera\
+https://www.coursera.org/specializations/jhu-data-science
 ### Time Series
 #### Books
-- Introduction to Econometrics with R \newline \url{https://www.econometrics-with-r.org/}
-- Forecasting: Principles and Practice \newline \url{https://otexts.com/fpp3/; https://otexts.com/fpp2/}
+- Introduction to Econometrics with R\
+https://www.econometrics-with-r.org/
+- Forecasting: Principles and Practice\
+https://otexts.com/fpp3/ https://otexts.com/fpp2/
 ### Finance
 #### Books
-- Machine Learning for Factor Investing \newline \url{http://www.mlfactor.com/}
+- Machine Learning for Factor Investing\
+http://www.mlfactor.com/
 #### Courses
-- Applying Data Analytics in Finance - Coursera \newline \url{https://www.coursera.org/learn/applying-data-analytics-business-in-finance}
+- Applying Data Analytics in Finance - Coursera\
+https://www.coursera.org/learn/applying-data-analytics-business-in-finance
 
 ### Linux and Shell/Bash
 - The Missing Semester of Your CS Education: MIT lecture for shell, Vim, Git, etc.: \url{https://missing.csail.mit.edu/}
