@@ -1,5 +1,37 @@
 # Collection of programming resources
 
+* [Collection of programming resources](#collection-of-programming-resources)
+  * [Python](#python)
+     * [General](#general)
+        * [Books](#books)
+        * [Links](#links)
+     * [Efficient Programming in Python](#efficient-programming-in-python)
+        * [Packages](#packages)
+     * [NLP with Python](#nlp-with-python)
+        * [Packages](#packages-1)
+        * [Books](#books-1)
+        * [Courses](#courses)
+        * [Links](#links-1)
+     * [Finance](#finance)
+        * [Books](#books-2)
+        * [Courses](#courses-1)
+  * [R](#r)
+     * [General](#general-1)
+        * [Books](#books-3)
+        * [Courses](#courses-2)
+     * [Data Science](#data-science)
+        * [Books](#books-4)
+        * [Courses](#courses-3)
+     * [Time Series](#time-series)
+        * [Books](#books-5)
+     * [Finance](#finance-1)
+        * [Books](#books-6)
+        * [Courses](#courses-4)
+     * [Linux and Shell/Bash](#linux-and-shellbash)
+     * [Documentation and Style Guide](#documentation-and-style-guide)
+     * [Data Sets](#data-sets)
+     * [Mathematics](#mathematics)
+
 ## Python
 
 ### General
