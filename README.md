@@ -108,37 +108,65 @@ http://www.mlfactor.com/
 https://www.coursera.org/learn/applying-data-analytics-business-in-finance
 
 ### Linux and Shell/Bash
-- The Missing Semester of Your CS Education: MIT lecture for shell, Vim, Git, etc.: \url{https://missing.csail.mit.edu/}
-- Linux Basics: E-Learning Module on Linux and Bash Fundamentals: \newline \url{https://training.bwhpc.de/ilias/ilias.php?ref_id=310&from_page=5066&obj_id=1&cmd=layout&cmdClass=illmpresentationgui&cmdNode=cn&baseClass=ilLMPresentationGUI}
-- Advanced Bash Scripting Lecture, bwHPC: \newline \url{https://indico.scc.kit.edu/event/410/attachments/1603/2217/01_2018-04-12_bwHPC_course_-_Adv_Bash_Scripting.pdf}
-- Advanced Bash Scripting Guide: \newline \url{https://www.tldp.org/LDP/abs/html/index.html}
-- Bash Scripting Cheat Sheet: \url{https://devhints.io/bash}
-- Github Curated List: List of Shell command-line frameworks: \newline \url{https://github.com/alebcay/awesome-shell}
-- Github Curated List: Linux Ecosystem Overview: \newline \url{https://github.com/aleksandar-todorovic/awesome-linux}
-- Github Curated List: Software for Linux: \url{https://github.com/luongvo209/Awesome-Linux-Software}
-- Github Curated List: Bash Resources \newline \url{https://github.com/awesome-lists/awesome-bash}
-- Online Book: Data Science at the Command Line:\newline \url{https://www.datascienceatthecommandline.com/index.html}
+- The Missing Semester of Your CS Education: MIT lecture for shell, Vim, Git, etc.\
+https://missing.csail.mit.edu/
+- Linux Basics: E-Learning Module on Linux and Bash Fundamentals\
+https://training.bwhpc.de/ilias/ilias.php?ref_id=310&from_page=5066&obj_id=1&cmd=layout&cmdClass=illmpresentationgui&cmdNode=cn&baseClass=ilLMPresentationGUI
+- Advanced Bash Scripting Lecture, bwHPC\
+https://indico.scc.kit.edu/event/410/attachments/1603/2217/01_2018-04-12_bwHPC_course_-_Adv_Bash_Scripting.pdf
+- Advanced Bash Scripting Guide\
+https://www.tldp.org/LDP/abs/html/index.html
+- Bash Scripting Cheat Sheet\
+https://devhints.io/bash
+- Github Curated List: List of Shell command-line frameworks\
+https://github.com/alebcay/awesome-shell
+- Github Curated List: Linux Ecosystem Overview\
+https://github.com/aleksandar-todorovic/awesome-linux
+- Github Curated List: Software for Linux\
+https://github.com/luongvo209/Awesome-Linux-Software
+- Github Curated List: Bash Resources\
+https://github.com/awesome-lists/awesome-bash
+- Online Book: Data Science at the Command Line\
+https://www.datascienceatthecommandline.com/index.html
 
 ### Documentation and Style Guide
-- Sphinx – Python Documentation Generator \newline \url{https://www.sphinx-doc.org/en/master/}
-- Pandoc - Universal Document Converter \newline \url{https://pandoc.org/}
-- Google Style Guides \newline \url{https://google.github.io/styleguide/}
+- Sphinx – Python Documentation Generator\
+https://www.sphinx-doc.org/en/master/
+- Pandoc - Universal Document Converter\
+https://pandoc.org/
+- Google Style Guides\
+https://google.github.io/styleguide/
 
 ### Data Sets
-- Google Data Set Search \newline \url{https://datasetsearch.research.google.com/}
-- Kaggle Data \newline \url{https://www.kaggle.com/datasets}
-- SNAP – Amazon Reviews \newline \url{http://snap.stanford.edu/data/web-Amazon.html}
-- UCI – Machine Learning Repository \newline \url{http://archive.ics.uci.edu/ml/datasets.php}
-- University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection \newline \url{https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets}
-- University of Texas - Multifaceted Text Classification Datasets \newline \url{http://www.hlt.utdallas.edu/~sajib/multifacetedText.html}
-- OpinRank Data – Reviews From TripAdvisor \& Edmunds \newline \url{http://kavita-ganesan.com/entity-ranking-data/#.XlQAAmhKiUm}
-- Yelp Academic Data Sets \newline \url{https://www.yelp.com/dataset}
+- Google Data Set Search\
+https://datasetsearch.research.google.com/
+- Kaggle Data\
+https://www.kaggle.com/datasets
+- SNAP – Amazon Reviews\
+http://snap.stanford.edu/data/web-Amazon.html
+- UCI – Machine Learning Repository\
+http://archive.ics.uci.edu/ml/datasets.php
+- University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection\
+https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets
+- University of Texas - Multifaceted Text Classification Datasets\
+http://www.hlt.utdallas.edu/~sajib/multifacetedText.html
+- OpinRank Data – Reviews From TripAdvisor \& Edmunds\
+http://kavita-ganesan.com/entity-ranking-data/#.XlQAAmhKiUm
+- Yelp Academic Data Sets\
+https://www.yelp.com/dataset
 
 ### Mathematics
-- Statistical Inference for Data Science \newline \url{https://leanpub.com/LittleInferenceBook/read}
-- Think Bayes \newline \url{http://greenteapress.com/wp/think-bayes/}
-- Introduction to Statistical Learning \newline \url{https://www-bcf.usc.edu/~gareth/ISL/}
-- Elements of Statistical Learning \newline \url{https://web.stanford.edu/~hastie/Papers/ESLII.pdf}
-- Statistical Learning with Sparsity - The Lasso and Generalization \newline \url{https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf}
-- Convex Optimization \newline \url{http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf}
-- Advanced Statistical Computing, Roger D. Peng \newline \url{https://leanpub.com/advstatcomp}
+- Statistical Inference for Data Science\
+https://leanpub.com/LittleInferenceBook/read
+- Think Bayes\
+http://greenteapress.com/wp/think-bayes/
+- Introduction to Statistical Learning\
+https://www-bcf.usc.edu/~gareth/ISL/
+- Elements of Statistical Learning\
+https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+- Statistical Learning with Sparsity - The Lasso and Generalization\
+https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf
+- Convex Optimization\
+http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+- Advanced Statistical Computing, Roger D. Peng\
+https://leanpub.com/advstatcomp
