@@ -1,5 +1,6 @@
 Collection of programming resources
 =========
+Useful programming resources for daily work.
 
 Table of contents
 =================
