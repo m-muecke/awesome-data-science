@@ -40,13 +40,13 @@ Table of contents
 
 ### General
 #### Books
-- The Hitchhiker’s Guide to Python!\
+- The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser\
 https://docs.python-guide.org/
-- Automate the Boring Stuff with Python\
+- Automate the Boring Stuff with Python - Al Sweigart\
 https://automatetheboringstuff.com/
-- Whirwind Tour of Python\
+- Whirwind Tour of Python - Jake VanderPlas\
 https://github.com/jakevdp/WhirlwindTourOfPython
-- Python Data Science Handbook\
+- Python Data Science Handbook - Jake VanderPlas\
 https://jakevdp.github.io/PythonDataScienceHandbook/
 #### Links
 - Github Curated List: Data Science Python\
@@ -60,7 +60,7 @@ https://github.com/vinta/awesome-python
 http://numba.pydata.org/
 - cuML – GPU-based machine learning\
 https://github.com/rapidsai/cuml
-- cuDF – GPU-based pandas
+- cuDF – GPU-based pandas\
 https://github.com/rapidsai/cudf
 - cuPy – GPU-based numpy\
 https://cupy.chainer.org/
@@ -80,8 +80,9 @@ https://textblob.readthedocs.io/en/dev/
 - snorkel – weak supervision framework\
 https://www.snorkel.org/
 #### Books
-- Applied Text Analysis with Python
-- Natural Language Processing with Python\
+- Applied Text Analysis with Python - Benjamin Bengfort, Rebecca Bilbro and Tony Ojeda\
+https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/
+- Natural Language Processing with Python - Steven Bird, Ewan Klein and Edward Loper\
 https://www.nltk.org/book/
 #### Courses
 - fast.ai: A Code-First Intro to Natural Language Processing\
