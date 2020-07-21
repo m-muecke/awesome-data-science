@@ -6,43 +6,65 @@
 #### Books
 - The Hitchhiker’s Guide to Python!\
 https://docs.python-guide.org/
-- Automate the Boring Stuff with Python \newline \url{https://automatetheboringstuff.com/}
-- Whirwind Tour of Python \newline \url{https://github.com/jakevdp/WhirlwindTourOfPython}
-- Python Data Science Handbook \newline \url{https://jakevdp.github.io/PythonDataScienceHandbook/}
+- Automate the Boring Stuff with Python\
+https://automatetheboringstuff.com/
+- Whirwind Tour of Python\
+https://github.com/jakevdp/WhirlwindTourOfPython
+- Python Data Science Handbook\
+https://jakevdp.github.io/PythonDataScienceHandbook/
 #### Links
-- Github Curated List: Data Science Python \newline \url{https://github.com/ujjwalkarn/DataSciencePython}
-- Github Curated List: Awesome Python \newline \url{https://github.com/vinta/awesome-python}
+- Github Curated List: Data Science Python\
+https://github.com/ujjwalkarn/DataSciencePython
+- Github Curated List: Awesome Python\
+https://github.com/vinta/awesome-python
 
 ### Efficient Programming in Python
 #### Packages
-- numba – Machine Code based Python and NumPy: \newline \url{http://numba.pydata.org/}
-- cuML – GPU-based machine learning: \newline \url{https://github.com/rapidsai/cuml}
-- cuDF – GPU-based pandas: \url{https://github.com/rapidsai/cudf}
-- cuPy – GPU-based numpy: \url{https://cupy.chainer.org/}
+- numba – Machine Code based Python and NumPy\
+http://numba.pydata.org/
+- cuML – GPU-based machine learning\
+https://github.com/rapidsai/cuml
+- cuDF – GPU-based pandas
+https://github.com/rapidsai/cudf
+- cuPy – GPU-based numpy\
+https://cupy.chainer.org/
 
 ### NLP with Python
 #### Packages
-- NLTK – natural language toolkit: \url{https://www.nltk.org/}
-- spaCy – industrial-strength NLP: \url{https://spacy.io/}
-- gensim – topic modelling for humans: \newline \url{https://radimrehurek.com/gensim/}
-- Stanza – Stanford CoreNLP interface: \newline \url{https://stanfordnlp.github.io/stanza/}
-- TextBlob – simplified text processing: \newline \url{https://textblob.readthedocs.io/en/dev/}
-- snorkel – weak supervision framework: \url{https://www.snorkel.org/}
+- NLTK – natural language toolkit\
+https://www.nltk.org/
+- spaCy – industrial-strength NLP\
+https://spacy.io/
+- gensim – topic modelling for humans\
+https://radimrehurek.com/gensim/
+- Stanza – Stanford CoreNLP interface\
+https://stanfordnlp.github.io/stanza/
+- TextBlob – simplified text processing\
+https://textblob.readthedocs.io/en/dev/
+- snorkel – weak supervision framework\
+https://www.snorkel.org/
 #### Books
 - Applied Text Analysis with Python
-- Natural Language Processing with Python \newline \url{https://www.nltk.org/book/}
+- Natural Language Processing with Python\
+https://www.nltk.org/book/
 #### Courses
-- fast.ai: A Code-First Intro to Natural Language Processing \newline \url{https://github.com/fastai/course-nlp}
-- CS224N Natural Language Processing with Deep Learning - Stanford Course \newline \url{http://web.stanford.edu/class/cs224n/}
-#### Links}
-- Github Curated List: Awesome Python \newline \url{https://github.com/keon/awesome-nlp}
+- fast.ai: A Code-First Intro to Natural Language Processing\
+https://github.com/fastai/course-nlp
+- CS224N Natural Language Processing with Deep Learning - Stanford Course\
+http://web.stanford.edu/class/cs224n/
+#### Links
+- Github Curated List: Awesome Python\
+https://github.com/keon/awesome-nlp
 
 ### Finance
 #### Books
-- Python for Finance - Yves Hilpisch \newline \url{https://www.oreilly.com/library/view/python-for-finance/9781492024323/}
-- Advances in Financial Machine Learning - Marcos López de Prado \newline \url{https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089}
+- Python for Finance - Yves Hilpisch\
+https://www.oreilly.com/library/view/python-for-finance/9781492024323/
+- Advances in Financial Machine Learning - Marcos López de Prado\
+https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089
 #### Courses
-- Investment Management with Python and Machine Learning Specialization - Coursera \newline \url{https://www.coursera.org/specializations/investment-management-python-machine-learning}
+- Investment Management with Python and Machine Learning Specialization - Coursera\
+https://www.coursera.org/specializations/investment-management-python-machine-learning
 
 ## R
 ### General
