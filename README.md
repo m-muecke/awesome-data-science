@@ -1,5 +1,8 @@
-# Collection of programming resources
+Collection of programming resources
+=========
 
+Table of contents
+=================
 * [Collection of programming resources](#collection-of-programming-resources)
   * [Python](#python)
      * [General](#general)
