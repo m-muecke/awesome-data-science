@@ -110,8 +110,6 @@ https://www.coursera.org/specializations/investment-management-python-machine-le
 http://adv-r.had.co.nz/
 - Efficient R Programming - C. Gillespie and R. Lovelace\
 https://csgillespie.github.io/efficientR/
-- R Programming for Data Science - Roger D. Peng\
-https://leanpub.com/rprogramming
 - Mastering Software Development in R - Roger D. Peng\
 https://bookdown.org/rdpeng/RProgDA/
 - Text Mining with R - Julia Silge and David Robinson\
@@ -126,6 +124,8 @@ https://www.coursera.org/specializations/r
 #### Books
 - R for Data Science - Hadley Wickham\
 http://r4ds.had.co.nz/
+- R Programming for Data Science - Roger D. Peng\
+https://leanpub.com/rprogramming
 - Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani\
 https://www-bcf.usc.edu/~gareth/ISL/
 #### Links
