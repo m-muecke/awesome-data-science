@@ -132,6 +132,8 @@ https://bookdown.org/rdpeng/RProgDA/
 - Text Mining with R - Julia Silge and David Robinson\
 https://www.tidytextmining.com/
 #### Links
+- CRAN Task Views
+https://cran.r-project.org/web/views/\
 - Github Curated List: Awesome R\
 https://github.com/qinwf/awesome-R
 #### Courses
