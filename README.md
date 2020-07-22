@@ -141,16 +141,27 @@ https://github.com/ujjwalkarn/DataScienceR
 #### Courses
 - Data Science Specialization - Coursera\
 https://www.coursera.org/specializations/jhu-data-science
-### Time Series
+### Econometrics
 #### Books
 - Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer\
 https://www.econometrics-with-r.org/
+#### Links
+- CRAN Task View: Econometrics
+https://cran.r-project.org/web/views/Econometrics.html
+### Time Series
+#### Books
 - Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos\
 https://otexts.com/fpp3/ https://otexts.com/fpp2/
+#### Links
+- CRAN Task View: Time Series Analysis\
+https://cran.r-project.org/web/views/TimeSeries.html
 ### Finance
 #### Books
 - Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida\
 http://www.mlfactor.com/
+#### Links
+- CRAN Task View: Empirical Finance\
+https://cran.r-project.org/web/views/Finance.html
 #### Courses
 - Applying Data Analytics in Finance - Coursera\
 https://www.coursera.org/learn/applying-data-analytics-business-in-finance
