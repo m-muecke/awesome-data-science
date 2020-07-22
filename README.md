@@ -1,4 +1,4 @@
-Collection of programming resources
+Collection of data science focused resources
 =========
 Useful programming resources for daily work.
 
