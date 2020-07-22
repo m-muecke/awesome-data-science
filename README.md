@@ -166,6 +166,7 @@ https://cran.r-project.org/web/views/Finance.html
 - Applying Data Analytics in Finance - Coursera\
 https://www.coursera.org/learn/applying-data-analytics-business-in-finance
 
+
 ## Linux and Shell/Bash
 - The Missing Semester of Your CS Education: MIT lecture for shell, Vim, Git, etc.\
 https://missing.csail.mit.edu/
@@ -188,6 +189,7 @@ https://github.com/awesome-lists/awesome-bash
 - Online Book: Data Science at the Command Line\
 https://www.datascienceatthecommandline.com/index.html
 
+
 ## Documentation and Style Guide
 - Sphinx – Python Documentation Generator\
 https://www.sphinx-doc.org/en/master/
@@ -195,6 +197,7 @@ https://www.sphinx-doc.org/en/master/
 https://pandoc.org/
 - Google Style Guides\
 https://google.github.io/styleguide/
+
 
 ## Data Sets
 - Google Data Set Search\
@@ -213,6 +216,7 @@ http://www.hlt.utdallas.edu/~sajib/multifacetedText.html
 http://kavita-ganesan.com/entity-ranking-data/#.XlQAAmhKiUm
 - Yelp Academic Data Sets\
 https://www.yelp.com/dataset
+
 
 ## Mathematics
 - Statistical Inference for Data Science\
