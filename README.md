@@ -54,7 +54,16 @@ https://github.com/ujjwalkarn/DataSciencePython
 - Github Curated List: Awesome Python\
 https://github.com/vinta/awesome-python
 
-### Efficient Programming in Python
+### Data Science
+#### Packages
+- numpy - Scientific Computing Library\
+https://numpy.org/
+- pandas - Python Data Analysis Library\
+https://pandas.pydata.org/
+- snorkel - Weak Supervision Framework\
+https://www.snorkel.org/
+
+### Efficient Programming
 #### Packages
 - numba – Machine Code based Python and NumPy\
 http://numba.pydata.org/
@@ -65,7 +74,7 @@ https://github.com/rapidsai/cudf
 - cuPy – GPU-based numpy\
 https://cupy.chainer.org/
 
-### NLP with Python
+### NLP
 #### Packages
 - NLTK – natural language toolkit\
 https://www.nltk.org/
@@ -77,8 +86,6 @@ https://radimrehurek.com/gensim/
 https://stanfordnlp.github.io/stanza/
 - TextBlob – simplified text processing\
 https://textblob.readthedocs.io/en/dev/
-- snorkel – weak supervision framework\
-https://www.snorkel.org/
 #### Books
 - Applied Text Analysis with Python - Benjamin Bengfort, Rebecca Bilbro and Tony Ojeda\
 https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/
