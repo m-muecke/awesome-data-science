@@ -56,8 +56,6 @@ https://docs.python-guide.org/
 https://automatetheboringstuff.com/
 - Whirwind Tour of Python - Jake VanderPlas\
 https://github.com/jakevdp/WhirlwindTourOfPython
-- Python Data Science Handbook - Jake VanderPlas\
-https://jakevdp.github.io/PythonDataScienceHandbook/
 #### Links
 - Github Curated List: Data Science Python\
 https://github.com/ujjwalkarn/DataSciencePython
@@ -65,6 +63,9 @@ https://github.com/ujjwalkarn/DataSciencePython
 https://github.com/vinta/awesome-python
 
 ### Data Science
+#### Books
+- Python Data Science Handbook - Jake VanderPlas\
+https://jakevdp.github.io/PythonDataScienceHandbook/
 #### Packages
 - numpy - Scientific Computing Library\
 https://numpy.org/
