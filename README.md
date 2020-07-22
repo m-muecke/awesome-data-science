@@ -31,10 +31,10 @@ Table of contents
      * [Finance](#finance-1)
         * [Books](#books-6)
         * [Courses](#courses-4)
-     * [Linux and Shell/Bash](#linux-and-shellbash)
-     * [Documentation and Style Guide](#documentation-and-style-guide)
-     * [Data Sets](#data-sets)
-     * [Mathematics](#mathematics)
+  * [Linux and Shell/Bash](#linux-and-shellbash)
+  * [Documentation and Style Guide](#documentation-and-style-guide)
+  * [Data Sets](#data-sets)
+  * [Mathematics](#mathematics)
 
 ## Python
 
