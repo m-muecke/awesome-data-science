@@ -1,6 +1,6 @@
 Collection of data science focused resources
 =========
-Useful programming resources for daily work.
+Useful programming and data science focused resources for daily work.
 
 Table of contents
 =================
