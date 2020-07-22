@@ -106,39 +106,43 @@ https://www.coursera.org/specializations/investment-management-python-machine-le
 ## R
 ### General
 #### Books
-- Advanced R, Hadley Wickham\
+- Advanced R - Hadley Wickham\
 http://adv-r.had.co.nz/
-- Efficient R Programming, C. Gillespie and R. Lovelace\
+- Efficient R Programming - C. Gillespie and R. Lovelace\
 https://csgillespie.github.io/efficientR/
-- R Programming for Data Science, Roger D. Peng\
+- R Programming for Data Science - Roger D. Peng\
 https://leanpub.com/rprogramming
-- Mastering Software Development in R, Roger D. Peng\
+- Mastering Software Development in R - Roger D. Peng\
 https://bookdown.org/rdpeng/RProgDA/
-- Text Mining with R\
+- Text Mining with R - Julia Silge and David Robinson\
 https://www.tidytextmining.com/
-- Awesome R\
+#### Links
+- Github Curated List: Awesome R\
 https://github.com/qinwf/awesome-R
-- Github Curated List: Data Science R\
-https://github.com/ujjwalkarn/DataScienceR
 #### Courses
 - Mastering Software Development in R Specialization - Coursera\
 https://www.coursera.org/specializations/r
 ### Data Science
 #### Books
-- R for Data Science, Hadley Wickham\
+- R for Data Science - Hadley Wickham\
 http://r4ds.had.co.nz/
+- Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani\
+https://www-bcf.usc.edu/~gareth/ISL/
+#### Links
+- Github Curated List: Data Science R\
+https://github.com/ujjwalkarn/DataScienceR
 #### Courses
 - Data Science Specialization - Coursera\
 https://www.coursera.org/specializations/jhu-data-science
 ### Time Series
 #### Books
-- Introduction to Econometrics with R\
+- Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer\
 https://www.econometrics-with-r.org/
-- Forecasting: Principles and Practice\
+- Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos\
 https://otexts.com/fpp3/ https://otexts.com/fpp2/
 ### Finance
 #### Books
-- Machine Learning for Factor Investing\
+- Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida\
 http://www.mlfactor.com/
 #### Courses
 - Applying Data Analytics in Finance - Coursera\
@@ -197,8 +201,6 @@ https://www.yelp.com/dataset
 https://leanpub.com/LittleInferenceBook/read
 - Think Bayes\
 http://greenteapress.com/wp/think-bayes/
-- Introduction to Statistical Learning\
-https://www-bcf.usc.edu/~gareth/ISL/
 - Elements of Statistical Learning\
 https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 - Statistical Learning with Sparsity - The Lasso and Generalization\
