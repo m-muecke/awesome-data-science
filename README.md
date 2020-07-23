@@ -50,7 +50,7 @@ Table of contents
 
 ### General
 #### Books
-- The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser\
+- The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser `Free`\
 https://docs.python-guide.org/
 - Automate the Boring Stuff with Python - Al Sweigart\
 https://automatetheboringstuff.com/
