@@ -67,7 +67,7 @@ Table of contents
 ### Data Science
 #### Books
 - [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) `Free`
-- [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)
+- [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/) `Free`
 #### Packages
 - [numpy - Scientific Computing Library](https://numpy.org/)
 - [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
