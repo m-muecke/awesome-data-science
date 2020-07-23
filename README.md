@@ -145,7 +145,7 @@ Table of contents
 
 ## Linux and Shell/Bash
 #### Books
-- [Online Book: Data Science at the Command Line](https://www.datascienceatthecommandline.com/index.html) `Free`
+- [Data Science at the Command Line - Jeroen Janssens](https://www.datascienceatthecommandline.com/index.html) `Free`
 #### Links
 - [Github Curated List: Bash Resources](https://github.com/awesome-lists/awesome-bash)
 - [Github Curated List: Linux Ecosystem Overview](https://github.com/aleksandar-todorovic/awesome-linux)
