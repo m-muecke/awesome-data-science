@@ -57,6 +57,7 @@ Table of contents
 #### Books
 - [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
 - [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
+- [Think Python - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
 - [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
 #### Links
 - [Github Curated List: Awesome Python](https://github.com/vinta/awesome-python)
@@ -65,6 +66,7 @@ Table of contents
 ### Data Science
 #### Books
 - [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) `Free`
+- [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)
 #### Packages
 - [numpy - Scientific Computing Library](https://numpy.org/)
 - [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
@@ -174,9 +176,9 @@ Table of contents
 
 
 ## Mathematics
-- [Advanced Statistical Computing, Roger D. Peng](https://leanpub.com/advstatcomp) `Free`
-- [Convex Optimization](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) `Free`
-- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) `Free`
-- [Statistical Inference for Data Science](https://leanpub.com/LittleInferenceBook/read) `Free`
-- [Statistical Learning with Sparsity - The Lasso and Generalization](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
-- [Think Bayes](http://greenteapress.com/wp/think-bayes/) `Free`
+- [Advanced Statistical Computing - Roger D. Peng](https://leanpub.com/advstatcomp) `Free`
+- [Convex Optimization - Stephen Boyd and Lieven Vandenberghe](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) `Free`
+- [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) `Free`
+- [Statistical Inference for Data Science - Brian Caffo](https://leanpub.com/LittleInferenceBook/read) `Free`
+- [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani and Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
+- [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
