@@ -52,12 +52,12 @@ Table of contents
 
 ### General
 #### Books
-- (The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser)[https://docs.python-guide.org/] `Free`
-- (Automate the Boring Stuff with Python - Al Sweigart)[https://automatetheboringstuff.com/] `Free`
-- (Whirwind Tour of Python - Jake VanderPlas)[https://github.com/jakevdp/WhirlwindTourOfPython] `Free`
+- [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
+- [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
+- [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
 #### Links
-- (Github Curated List: Data Science Python)[https://github.com/ujjwalkarn/DataSciencePython]
-- (Github Curated List: Awesome Python)[https://github.com/vinta/awesome-python]
+- [Github Curated List: Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
+- [Github Curated List: Awesome Python](https://github.com/vinta/awesome-python)
 
 ### Data Science
 #### Books
