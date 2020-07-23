@@ -56,6 +56,7 @@ Table of contents
 ### General
 #### Books
 - [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
+- [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
 - [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
 - [Think Python - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
 - [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
