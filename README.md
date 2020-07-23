@@ -1,6 +1,7 @@
 Collection of data science focused resources
 =========
 Useful programming and data science focused resources for daily work.
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
 Table of contents
 =================
