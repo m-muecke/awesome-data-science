@@ -61,22 +61,16 @@ Table of contents
 
 ### Data Science
 #### Books
-- Python Data Science Handbook - Jake VanderPlas\
-https://jakevdp.github.io/PythonDataScienceHandbook/
+- [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) `Free`
 #### Packages
-- numpy - Scientific Computing Library\
-https://numpy.org/
-- pandas - Python Data Analysis Library\
-https://pandas.pydata.org/
-- snorkel - Weak Supervision Framework\
-https://www.snorkel.org/
+- [numpy - Scientific Computing Library](https://numpy.org/)
+- [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
+- [snorkel - Weak Supervision Framework](https://www.snorkel.org/)
 
 ### Efficient Programming
 #### Packages
-- numba – Machine Code based Python and NumPy\
-http://numba.pydata.org/
-- cuML – GPU-based machine learning\
-https://github.com/rapidsai/cuml
+- [numba – Machine Code based Python and NumPy](http://numba.pydata.org/)
+- [cuML – GPU-based machine learning](https://github.com/rapidsai/cuml)
 - cuDF – GPU-based pandas\
 https://github.com/rapidsai/cudf
 - cuPy – GPU-based numpy\
@@ -84,97 +78,65 @@ https://cupy.chainer.org/
 
 ### NLP
 #### Packages
-- NLTK – natural language toolkit\
-https://www.nltk.org/
-- spaCy – industrial-strength NLP\
-https://spacy.io/
-- gensim – topic modelling for humans\
-https://radimrehurek.com/gensim/
-- Stanza – Stanford CoreNLP interface\
-https://stanfordnlp.github.io/stanza/
-- TextBlob – simplified text processing\
-https://textblob.readthedocs.io/en/dev/
+- [NLTK – natural language toolkit](https://www.nltk.org/)
+- [spaCy – industrial-strength NLP](https://spacy.io/)
+- [gensim – topic modelling for humans](https://radimrehurek.com/gensim/)
+- [Stanza – Stanford CoreNLP interface](https://stanfordnlp.github.io/stanza/)
+- [TextBlob – simplified text processing](https://textblob.readthedocs.io/en/dev/)
 #### Books
-- Applied Text Analysis with Python - Benjamin Bengfort, Rebecca Bilbro and Tony Ojeda\
-https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/
-- Natural Language Processing with Python - Steven Bird, Ewan Klein and Edward Loper\
-https://www.nltk.org/book/
+- [Applied Text Analysis with Python - Benjamin Bengfort, Rebecca Bilbro and Tony Ojeda](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/) `Paid`
+- [Natural Language Processing with Python - Steven Bird, Ewan Klein and Edward Loper](https://www.nltk.org/book/) `Free`
 #### Courses
-- fast.ai: A Code-First Intro to Natural Language Processing\
-https://github.com/fastai/course-nlp
-- CS224N Natural Language Processing with Deep Learning - Stanford Course\
-http://web.stanford.edu/class/cs224n/
+- [fast.ai: A Code-First Intro to Natural Language Processing](https://github.com/fastai/course-nlp)
+- [CS224N Natural Language Processing with Deep Learning - Stanford Course](http://web.stanford.edu/class/cs224n/)
 #### Links
-- Github Curated List: Awesome Python\
-https://github.com/keon/awesome-nlp
+- [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
 ### Finance
 #### Books
-- Python for Finance - Yves Hilpisch\
-https://www.oreilly.com/library/view/python-for-finance/9781492024323/
-- Advances in Financial Machine Learning - Marcos López de Prado\
-https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089
+- [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
+- [Advances in Financial Machine Learning - Marcos López de Prado](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) `Paid`
 #### Courses
-- Investment Management with Python and Machine Learning Specialization - Coursera\
-https://www.coursera.org/specializations/investment-management-python-machine-learning
+- [Investment Management with Python and Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning) `Paid`
 
 ## R
 ### General
 #### Books
-- Advanced R - Hadley Wickham\
-http://adv-r.had.co.nz/
-- Efficient R Programming - C. Gillespie and R. Lovelace\
-https://csgillespie.github.io/efficientR/
-- Mastering Software Development in R - Roger D. Peng\
-https://bookdown.org/rdpeng/RProgDA/
-- Text Mining with R - Julia Silge and David Robinson\
-https://www.tidytextmining.com/
+- [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/) `Free`
+- [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
+- [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
+- [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
 #### Links
-- CRAN Task Views\
-https://cran.r-project.org/web/views/
-- Github Curated List: Awesome R\
-https://github.com/qinwf/awesome-R
+- [CRAN Task Views](https://cran.r-project.org/web/views/)
+- [Github Curated List: Awesome R](https://github.com/qinwf/awesome-R)
 #### Courses
-- Mastering Software Development in R Specialization - Coursera\
-https://www.coursera.org/specializations/r
+- [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
 ### Data Science
 #### Books
-- R for Data Science - Hadley Wickham\
-http://r4ds.had.co.nz/
-- R Programming for Data Science - Roger D. Peng\
-https://leanpub.com/rprogramming
-- Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani\
-https://www-bcf.usc.edu/~gareth/ISL/
+- [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
+- [R Programming for Data Science - Roger D. Peng](https://leanpub.com/rprogramming) `Free`
+- [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
 #### Links
-- Github Curated List: Data Science R\
-https://github.com/ujjwalkarn/DataScienceR
+- [Github Curated List: Data Science R](https://github.com/ujjwalkarn/DataScienceR)
 #### Courses
-- Data Science Specialization - Coursera\
-https://www.coursera.org/specializations/jhu-data-science
+- [Data Science Specialization - Coursera](https://www.coursera.org/specializations/jhu-data-science) `Paid`
 ### Econometrics
 #### Books
-- Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer\
-https://www.econometrics-with-r.org/
-#### Links
-- CRAN Task View: Econometrics
-https://cran.r-project.org/web/views/Econometrics.html
+- [Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer](https://www.econometrics-with-r.org/) `Free`
+#### Link
+- [CRAN Task View: Econometrics](https://cran.r-project.org/web/views/Econometrics.html)
 ### Time Series
 #### Books
-- Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos\
-https://otexts.com/fpp3/ https://otexts.com/fpp2/
+- [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/) `Free`
 #### Links
-- CRAN Task View: Time Series Analysis\
-https://cran.r-project.org/web/views/TimeSeries.html
+- [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
 ### Finance
 #### Books
-- Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida\
-http://www.mlfactor.com/
+- [Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/) `Free`
 #### Links
-- CRAN Task View: Empirical Finance\
-https://cran.r-project.org/web/views/Finance.html
+- [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
 #### Courses
-- Applying Data Analytics in Finance - Coursera\
-https://www.coursera.org/learn/applying-data-analytics-business-in-finance
+- [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
 
 
 ## Linux and Shell/Bash
