@@ -99,8 +99,8 @@ Table of contents
 ### Finance
 #### Books
 - [Advances in Financial Machine Learning - Marcos López de Prado](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) `Paid`
-- [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
 - [Machine Learning in Finance: From Theory to Practice - Igor Halperin, Matthew F. Dixon and Paul Bilokon](https://www.springer.com/gp/book/9783030410674#:~:text=It%20presents%20a%20unified%20treatment,for%20financial%20data%20modeling%20and) `Paid`
+- [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
 #### Courses
 - [Investment Management with Python and Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning) `Paid`
 
@@ -170,12 +170,12 @@ Table of contents
 - [Google Data Set Search](https://datasetsearch.research.google.com/)
 - [Kaggle Data](https://www.kaggle.com/datasets)
 - [OpinRank Data – Reviews From TripAdvisor \& Edmunds](http://kavita-ganesan.com/entity-ranking-data/#.XlQAAmhKiUm)
+- [Quandl - Financial, Economic, and Alternative Datasets](https://www.quandl.com/)
 - [SNAP – Amazon Reviews](http://snap.stanford.edu/data/web-Amazon.html)
 - [UCI – Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php)
 - [University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 - [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html)
 - [Yelp Academic Data Sets](https://www.yelp.com/dataset)
-- [Quandl - Financial, Economic, and Alternative Datasets](https://www.quandl.com/)
 
 
 ## Mathematics
