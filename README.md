@@ -175,6 +175,7 @@ Table of contents
 - [University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 - [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html)
 - [Yelp Academic Data Sets](https://www.yelp.com/dataset)
+- [Quandl - Financial, Economic, and Alternative Datasets](https://www.quandl.com/)
 
 
 ## Mathematics
