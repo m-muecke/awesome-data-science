@@ -95,6 +95,7 @@ Table of contents
 - [Natural Language Processing with Python - Steven Bird, Ewan Klein and Edward Loper](https://www.nltk.org/book/) `Free`
 #### Courses
 - [CS224N Natural Language Processing with Deep Learning - Stanford Course](http://web.stanford.edu/class/cs224n/) `Free`
+- [Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) `Paid`
 - [fast.ai: A Code-First Intro to Natural Language Processing](https://github.com/fastai/course-nlp) `Free`
 #### Links
 - [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
@@ -105,6 +106,7 @@ Table of contents
 - [Machine Learning in Finance: From Theory to Practice - Igor Halperin, Matthew F. Dixon and Paul Bilokon](https://www.springer.com/gp/book/9783030410674#:~:text=It%20presents%20a%20unified%20treatment,for%20financial%20data%20modeling%20and) `Paid`
 - [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
 #### Courses
+- [Artificial Intelligence for Trading Nanodegree - Udacity](https://www.udacity.com/course/ai-for-trading--nd880) `Paid`
 - [Investment Management with Python and Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning) `Paid`
 
 ## R
