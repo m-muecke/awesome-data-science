@@ -100,6 +100,7 @@ Table of contents
 #### Books
 - [Advances in Financial Machine Learning - Marcos López de Prado](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) `Paid`
 - [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
+- [Machine Learning in Finance: From Theory to Practice - Igor Halperin, Matthew F. Dixon and Paul Bilokon](https://www.springer.com/gp/book/9783030410674#:~:text=It%20presents%20a%20unified%20treatment,for%20financial%20data%20modeling%20and) `Paid`
 #### Courses
 - [Investment Management with Python and Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning) `Paid`
 
