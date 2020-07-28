@@ -94,9 +94,9 @@ Table of contents
 - [Applied Text Analysis with Python - Benjamin Bengfort, Rebecca Bilbro and Tony Ojeda](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/) `Paid`
 - [Natural Language Processing with Python - Steven Bird, Ewan Klein and Edward Loper](https://www.nltk.org/book/) `Free`
 #### Courses
-- [CS224N Natural Language Processing with Deep Learning - Stanford Course](http://web.stanford.edu/class/cs224n/) `Free`
-- [Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) `Paid`
-- [fast.ai: A Code-First Intro to Natural Language Processing](https://github.com/fastai/course-nlp) `Free`
+- [CS224N Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) `Free`
+- [Natural Language Processing Nanodegree - Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) `Paid`
+- [A Code-First Intro to Natural Language Processing - fast.ai](https://github.com/fastai/course-nlp) `Free`
 #### Links
 - [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
