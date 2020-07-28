@@ -111,8 +111,10 @@ Table of contents
 ### General
 #### Books
 - [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/) `Free`
+- [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
 - [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
 - [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
+- [R Packages - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
 - [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
 #### Links
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
