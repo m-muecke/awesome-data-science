@@ -118,6 +118,7 @@ Table of contents
 - [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
 - [R Packages - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
 - [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
+- [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
 #### Links
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
 - [Github Curated List: Awesome R](https://github.com/qinwf/awesome-R)
