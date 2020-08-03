@@ -115,10 +115,15 @@ Table of contents
 - [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/) `Free`
 - [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
 - [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
+- [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
 - [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
 - [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
-- [R Packages - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
+- [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
+- [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
 - [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
+- [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
+- [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
+
 #### Links
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
 - [Github Curated List: Awesome R](https://github.com/qinwf/awesome-R)
@@ -127,8 +132,10 @@ Table of contents
 ### Data Science
 #### Books
 - [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
+- [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
 - [R Programming for Data Science - Roger D. Peng](https://leanpub.com/rprogramming) `Free`
 - [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
+
 #### Links
 - [Github Curated List: Data Science R](https://github.com/ujjwalkarn/DataScienceR)
 #### Courses
