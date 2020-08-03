@@ -120,7 +120,6 @@ Table of contents
 - [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
 - [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
 - [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
-- [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
 - [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
 - [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
 
@@ -135,6 +134,7 @@ Table of contents
 - [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
 - [R Programming for Data Science - Roger D. Peng](https://leanpub.com/rprogramming) `Free`
 - [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
+- [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
 
 #### Links
 - [Github Curated List: Data Science R](https://github.com/ujjwalkarn/DataScienceR)
