@@ -28,7 +28,6 @@ Table of contents
          * [Web Development](#web-development)
             * [Packages](#packages-3)
             * [Books](#books-4)
-            * [Links](#links-2)
       * [R](#r)
          * [General](#general-1)
             * [Books](#books-5)
@@ -121,7 +120,6 @@ Table of contents
 - [Flask - lightweight WSGI web application framework](https://flask.palletsprojects.com/)
 #### Books
 - [Flask Web Development - Miguel Grinberg](https://www.oreilly.com/library/view/flask-web-development/9781491991725/) `Paid`
-#### Links
 
 ## R
 ### General
