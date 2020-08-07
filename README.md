@@ -6,6 +6,7 @@ Useful programming and data science focused resources for daily work.
 
 Table of contents
 =================
+
 * [Collection of data science focused resources](#collection-of-data-science-focused-resources)
    * [Table of contents](#table-of-contents)
       * [Python](#python)
@@ -31,26 +32,29 @@ Table of contents
       * [R](#r)
          * [General](#general-1)
             * [Books](#books-5)
-            * [Links](#links-3)
+            * [Links](#links-2)
             * [Courses](#courses-2)
          * [Data Science](#data-science-1)
             * [Books](#books-6)
-            * [Links](#links-4)
+            * [Links](#links-3)
             * [Courses](#courses-3)
          * [Econometrics](#econometrics)
             * [Books](#books-7)
             * [Link](#link)
          * [Time Series](#time-series)
             * [Books](#books-8)
-            * [Links](#links-5)
+            * [Links](#links-4)
          * [Finance](#finance-1)
             * [Books](#books-9)
-            * [Links](#links-6)
+            * [Links](#links-5)
             * [Courses](#courses-4)
+         * [Web Development](#web-development-1)
+            * [Packages](#packages-4)
+            * [Books](#books-10)
       * [Linux and Shell/Bash](#linux-and-shellbash)
-        * [Books](#books-10)
-        * [Links](#links-7)
-        * [Courses, Guides, Lectures, etc.](#courses-guides-lectures-etc)
+          * [Books](#books-11)
+          * [Links](#links-6)
+          * [Courses, Guides, Lectures, etc.](#courses-guides-lectures-etc)
       * [Documentation and Style Guide](#documentation-and-style-guide)
       * [Data Sets](#data-sets)
       * [Mathematics](#mathematics)
@@ -128,11 +132,9 @@ Table of contents
 - [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
 - [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
 - [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
-- [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
 - [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
 - [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
 - [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
-- [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
 - [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
 
 #### Links
@@ -170,6 +172,14 @@ Table of contents
 #### Courses
 - [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
 
+### Web Development
+#### Packages
+- [Shiny - Build interactive web applications](https://shiny.rstudio.com/)
+- [blogdown - Create websites with R Mardown](https://github.com/rstudio/blogdown)
+- [plumber - A web API generator for R](https://www.rplumber.io/)
+#### Books
+- [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
+- [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
 
 ## Linux and Shell/Bash
 #### Books
