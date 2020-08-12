@@ -129,6 +129,7 @@ Table of contents
 ### General
 #### Books
 - [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/) `Free`
+- [An Introduction to R - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau](https://intro2r.com/) `Free`
 - [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
 - [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
 - [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
@@ -166,7 +167,10 @@ Table of contents
 - [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
 ### Finance
 #### Books
+- [Basic R for Finance - Diethelm Würtz, Tobias Setz, Yohan Chalabi, Longhow Lam, Andrew Ellis](https://www.rmetrics.org/ebooks-basicr) `Free`
+- [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
 - [Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/) `Free`
+- [Portfolio Optimization with R/Rmetrics - Diethelm Würtz, Tobias Setz, Yohan Chalabi, William Chen, Andrew Ellis](https://www.rmetrics.org/ebooks-portfolio) `Free`
 #### Links
 - [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
 #### Courses
