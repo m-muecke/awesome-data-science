@@ -208,15 +208,15 @@ Table of contents
 
 
 ## Data Sets
-- [Google Data Set Search](https://datasetsearch.research.google.com/)
-- [Kaggle Data](https://www.kaggle.com/datasets)
-- [OpinRank Data – Reviews From TripAdvisor \& Edmunds](http://kavita-ganesan.com/entity-ranking-data/#.XlQAAmhKiUm)
-- [Quandl - Financial, Economic, and Alternative Datasets](https://www.quandl.com/)
-- [SNAP – Amazon Reviews](http://snap.stanford.edu/data/web-Amazon.html)
-- [UCI – Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php)
-- [University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
-- [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html)
-- [Yelp Academic Data Sets](https://www.yelp.com/dataset)
+- [Google Data Set Search](https://datasetsearch.research.google.com/) `Free`
+- [Kaggle Data](https://www.kaggle.com/datasets) `Free`
+- [OpinRank Data – Reviews From TripAdvisor \& Edmunds](http://kavita-ganesan.com/entity-ranking-data/#.XlQAAmhKiUm) `Free`
+- [Quandl - Financial, Economic, and Alternative Datasets](https://www.quandl.com/) `Free` `Paid`
+- [SNAP – Amazon Reviews](http://snap.stanford.edu/data/web-Amazon.html) `Free`
+- [UCI – Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php) `Free`
+- [University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets) `Free`
+- [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html) `Free`
+- [Yelp Academic Data Sets](https://www.yelp.com/dataset) `Free`
 
 
 ## Mathematics
