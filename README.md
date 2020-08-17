@@ -16,13 +16,13 @@ Table of contents
             * [Books](#books-1)
             * [Packages](#packages)
             * [Courses](#courses)
+            * [Links](#links-1)
          * [Efficient Programming](#efficient-programming)
             * [Packages](#packages-1)
          * [NLP](#nlp)
             * [Packages](#packages-2)
             * [Books](#books-2)
             * [Courses](#courses-1)
-            * [Links](#links-1)
          * [Finance](#finance)
             * [Books](#books-3)
             * [Courses](#courses-2)
@@ -59,6 +59,7 @@ Table of contents
       * [Documentation and Style Guide](#documentation-and-style-guide)
       * [Data Sets](#data-sets)
       * [Mathematics](#mathematics)
+      * [Computer Science](#computer-science)
 
 ## Python
 
@@ -70,8 +71,7 @@ Table of contents
 - [Think Python - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
 - [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
 #### Links
-- [Github Curated List: Awesome Python](https://github.com/vinta/awesome-python)
-- [Github Curated List: Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
+- [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
 ### Data Science
 #### Books
@@ -80,6 +80,7 @@ Table of contents
 - [Python Data Science Handbook: Essential Tools for Working with Data - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) `Free`
 - [Python for Data Analysis - Wes McKinney](https://wesmckinney.com/pages/book.html) `Paid`
 - [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/) `Free`
+- [Web Scraping with Python - Ryan Mitchell](https://www.oreilly.com/library/view/web-scraping-with/9781491985564/) `Paid`
 #### Packages
 - [numpy - Scientific Computing Library](https://numpy.org/)
 - [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
@@ -88,6 +89,8 @@ Table of contents
 
 #### Courses
 - [Foundations of Machine Learning - Bloomberg ML EDU](https://bloomberg.github.io/foml/) `Free`
+#### Links
+- [Github Curated List: Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
 
 ### Efficient Programming
 #### Packages
@@ -111,8 +114,6 @@ Table of contents
 - [A Code-First Intro to Natural Language Processing - fast.ai](https://github.com/fastai/course-nlp) `Free`
 - [CS224N Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) `Free`
 - [Natural Language Processing Nanodegree - Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) `Paid`
-#### Links
-- [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
 ### Finance
 #### Books
@@ -165,7 +166,7 @@ Table of contents
 - [Data Science Specialization - Coursera](https://www.coursera.org/specializations/jhu-data-science) `Paid`
 ### Econometrics
 #### Books
-- [Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer](https://www.econometrics-with-r.org/) `Free`
+- [Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber, Martin Schmelzer](https://www.econometrics-with-r.org/) `Free`
 - [Panel Data Econometrics with R - Yves Croissant and Givanni Millo](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119504641) `Paid`
 #### Link
 - [CRAN Task View: Econometrics](https://cran.r-project.org/web/views/Econometrics.html)
@@ -239,3 +240,9 @@ Table of contents
 - [Statistical Inference for Data Science - Brian Caffo](https://leanpub.com/LittleInferenceBook/read) `Free`
 - [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
 - [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
+
+## Computer Science
+- [Think Complexity - Allen B. Downey](https://greenteapress.com/wp/think-complexity-2e/) `Free`
+- [Think DSP: Digital Signal Processing in Python - Allen B. Downey](https://greenteapress.com/wp/think-dsp/) `Free`
+- [Think Data Structures - Allen B. Downey](https://greenteapress.com/wp/think-data-structures/) `Free`
+- [Think Java - Allen Downey and Chris Mayfield](https://greenteapress.com/wp/think-java/) `Free`
