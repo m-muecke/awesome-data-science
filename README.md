@@ -16,16 +16,17 @@ Table of contents
          * [Data Science](#data-science)
             * [Books](#books-1)
             * [Packages](#packages)
+            * [Courses](#courses)
          * [Efficient Programming](#efficient-programming)
             * [Packages](#packages-1)
          * [NLP](#nlp)
             * [Packages](#packages-2)
             * [Books](#books-2)
-            * [Courses](#courses)
+            * [Courses](#courses-1)
             * [Links](#links-1)
          * [Finance](#finance)
             * [Books](#books-3)
-            * [Courses](#courses-1)
+            * [Courses](#courses-2)
          * [Web Development](#web-development)
             * [Packages](#packages-3)
             * [Books](#books-4)
@@ -33,11 +34,11 @@ Table of contents
          * [General](#general-1)
             * [Books](#books-5)
             * [Links](#links-2)
-            * [Courses](#courses-2)
+            * [Courses](#courses-3)
          * [Data Science](#data-science-1)
             * [Books](#books-6)
             * [Links](#links-3)
-            * [Courses](#courses-3)
+            * [Courses](#courses-4)
          * [Econometrics](#econometrics)
             * [Books](#books-7)
             * [Link](#link)
@@ -47,7 +48,7 @@ Table of contents
          * [Finance](#finance-1)
             * [Books](#books-9)
             * [Links](#links-5)
-            * [Courses](#courses-4)
+            * [Courses](#courses-5)
          * [Web Development](#web-development-1)
             * [Packages](#packages-4)
             * [Books](#books-10)
@@ -83,6 +84,9 @@ Table of contents
 - [numpy - Scientific Computing Library](https://numpy.org/)
 - [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
 - [snorkel - Weak Supervision Framework](https://www.snorkel.org/)
+
+#### Courses
+- [Foundations of Machine Learning - Bloomberg ML EDU](https://bloomberg.github.io/foml/) `Free`
 
 ### Efficient Programming
 #### Packages
