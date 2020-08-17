@@ -6,7 +6,6 @@ Useful programming and data science focused resources for daily work.
 
 Table of contents
 =================
-
 * [Collection of data science focused resources](#collection-of-data-science-focused-resources)
    * [Table of contents](#table-of-contents)
       * [Python](#python)
@@ -30,15 +29,16 @@ Table of contents
          * [Web Development](#web-development)
             * [Packages](#packages-3)
             * [Books](#books-4)
+            * [Courses](#courses-3)
       * [R](#r)
          * [General](#general-1)
             * [Books](#books-5)
             * [Links](#links-2)
-            * [Courses](#courses-3)
+            * [Courses](#courses-4)
          * [Data Science](#data-science-1)
             * [Books](#books-6)
             * [Links](#links-3)
-            * [Courses](#courses-4)
+            * [Courses](#courses-5)
          * [Econometrics](#econometrics)
             * [Books](#books-7)
             * [Link](#link)
@@ -48,7 +48,7 @@ Table of contents
          * [Finance](#finance-1)
             * [Books](#books-9)
             * [Links](#links-5)
-            * [Courses](#courses-5)
+            * [Courses](#courses-6)
          * [Web Development](#web-development-1)
             * [Packages](#packages-4)
             * [Books](#books-10)
@@ -83,6 +83,7 @@ Table of contents
 #### Packages
 - [numpy - Scientific Computing Library](https://numpy.org/)
 - [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
+- [scikit-learn - Machine Learning in Python](https://scikit-learn.org/)
 - [snorkel - Weak Supervision Framework](https://www.snorkel.org/)
 
 #### Courses
@@ -97,25 +98,26 @@ Table of contents
 
 ### NLP
 #### Packages
-- [NLTK – natural language toolkit](https://www.nltk.org/)
-- [Stanza – Stanford CoreNLP interface](https://stanfordnlp.github.io/stanza/)
-- [TextBlob – simplified text processing](https://textblob.readthedocs.io/en/dev/)
-- [gensim – topic modelling for humans](https://radimrehurek.com/gensim/)
-- [spaCy – industrial-strength NLP](https://spacy.io/)
+- [Hugging Face: Transformers - State-of-the-art Natural Language Processing for Pytorch and TF 2.0](https://huggingface.co/transformers/)
+- [NLTK – Natural Language Toolkit](https://www.nltk.org/)
+- [Stanza – Stanford CoreNLP Interface](https://stanfordnlp.github.io/stanza/)
+- [TextBlob – Simplified Text Processing](https://textblob.readthedocs.io/en/dev/)
+- [gensim – Topic Modelling for Humans](https://radimrehurek.com/gensim/)
+- [spaCy – Industrial-Strength NLP](https://spacy.io/)
 #### Books
-- [Applied Text Analysis with Python - Benjamin Bengfort, Rebecca Bilbro and Tony Ojeda](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/) `Paid`
-- [Natural Language Processing with Python - Steven Bird, Ewan Klein and Edward Loper](https://www.nltk.org/book/) `Free`
+- [Applied Text Analysis with Python - Benjamin Bengfort, Rebecca Bilbro, Tony Ojeda](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/) `Paid`
+- [Natural Language Processing with Python - Steven Bird, Ewan Klein, Edward Loper](https://www.nltk.org/book/) `Free`
 #### Courses
+- [A Code-First Intro to Natural Language Processing - fast.ai](https://github.com/fastai/course-nlp) `Free`
 - [CS224N Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) `Free`
 - [Natural Language Processing Nanodegree - Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) `Paid`
-- [A Code-First Intro to Natural Language Processing - fast.ai](https://github.com/fastai/course-nlp) `Free`
 #### Links
 - [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
 ### Finance
 #### Books
 - [Advances in Financial Machine Learning - Marcos López de Prado](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) `Paid`
-- [Machine Learning in Finance: From Theory to Practice - Igor Halperin, Matthew F. Dixon and Paul Bilokon](https://www.springer.com/gp/book/9783030410674#:~:text=It%20presents%20a%20unified%20treatment,for%20financial%20data%20modeling%20and) `Paid`
+- [Machine Learning in Finance: From Theory to Practice - Igor Halperin, Matthew F. Dixon, Paul Bilokon](https://www.springer.com/gp/book/9783030410674#:~:text=It%20presents%20a%20unified%20treatment,for%20financial%20data%20modeling%20and) `Paid`
 - [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
 #### Courses
 - [Artificial Intelligence for Trading Nanodegree - Udacity](https://www.udacity.com/course/ai-for-trading--nd880) `Paid`
@@ -128,12 +130,14 @@ Table of contents
 - [Flask - lightweight WSGI web application framework](https://flask.palletsprojects.com/)
 #### Books
 - [Flask Web Development - Miguel Grinberg](https://www.oreilly.com/library/view/flask-web-development/9781491991725/) `Paid`
+#### Courses
+- [CS50’s Web Programming with Python and JavaScript - Harvard University](https://cs50.harvard.edu/web/2020/) `Free`
 
 ## R
 ### General
 #### Books
 - [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/) `Free`
-- [An Introduction to R - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau](https://intro2r.com/) `Free`
+- [An Introduction to R - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, David Lusseau](https://intro2r.com/) `Free`
 - [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
 - [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
 - [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
@@ -149,7 +153,7 @@ Table of contents
 - [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
 ### Data Science
 #### Books
-- [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie and Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
+- [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastiec, Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
 - [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
 - [R Programming for Data Science - Roger D. Peng](https://leanpub.com/rprogramming) `Free`
 - [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
@@ -166,15 +170,19 @@ Table of contents
 - [CRAN Task View: Econometrics](https://cran.r-project.org/web/views/Econometrics.html)
 ### Time Series
 #### Books
+- [An Introduction to Analysis of Financial Data with R - Ruey S. Tsay](https://www.wiley.com/en-us/An+Introduction+to+Analysis+of+Financial+Data+with+R-p-9780470890813) `Paid`
+- [Analysis of Financial Time Series - Ruey S. Tsay](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354) `Paid`
 - [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/) `Free`
+- [Multivariate Time Series Analysis: With R and Financial Applications - Ruey S. Tsay](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617908) `Paid`
+- [Nonlinear Time Series Analysis - Ruey S. Tsay and Rong Chen](https://www.wiley.com/en-us/Nonlinear+Time+Series+Analysis-p-9781119264071) `Paid`
 #### Links
 - [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
 ### Finance
 #### Books
 - [Basic R for Finance - Diethelm Würtz, Tobias Setz, Yohan Chalabi, Longhow Lam, Andrew Ellis](https://www.rmetrics.org/ebooks-basicr) `Free`
-- [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
 - [Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/) `Free`
 - [Portfolio Optimization with R/Rmetrics - Diethelm Würtz, Tobias Setz, Yohan Chalabi, William Chen, Andrew Ellis](https://www.rmetrics.org/ebooks-portfolio) `Free`
+- [Topics in Empirical Finance with R and Rmetrics - Patrick Hénaff](https://www.rmetrics.org/ebooks-henaff) `Paid`
 #### Links
 - [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
 #### Courses
@@ -212,6 +220,7 @@ Table of contents
 
 
 ## Data Sets
+- [Fama-French Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) `Free`
 - [Google Data Set Search](https://datasetsearch.research.google.com/) `Free`
 - [Kaggle Data](https://www.kaggle.com/datasets) `Free`
 - [OpinRank Data – Reviews From TripAdvisor \& Edmunds](http://kavita-ganesan.com/entity-ranking-data/#.XlQAAmhKiUm) `Free`
@@ -225,8 +234,9 @@ Table of contents
 
 ## Mathematics
 - [Advanced Statistical Computing - Roger D. Peng](https://leanpub.com/advstatcomp) `Free`
+- [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
 - [Convex Optimization - Stephen Boyd and Lieven Vandenberghe](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) `Free`
 - [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) `Free`
 - [Statistical Inference for Data Science - Brian Caffo](https://leanpub.com/LittleInferenceBook/read) `Free`
-- [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani and Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
+- [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
 - [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
