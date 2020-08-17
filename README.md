@@ -166,6 +166,7 @@ Table of contents
 ### Econometrics
 #### Books
 - [Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer](https://www.econometrics-with-r.org/) `Free`
+- [Panel Data Econometrics with R - Yves Croissant and Givanni Millo](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119504641) `Paid`
 #### Link
 - [CRAN Task View: Econometrics](https://cran.r-project.org/web/views/Econometrics.html)
 ### Time Series
@@ -206,18 +207,16 @@ Table of contents
 - [Github Curated List: List of Shell command-line frameworks](https://github.com/alebcay/awesome-shell)
 - [Github Curated List: Software for Linux](https://github.com/luongvo209/Awesome-Linux-Software)
 #### Courses, Guides, Lectures, etc.
-- [Advanced Bash Scripting Guide](https://www.tldp.org/LDP/abs/html/index.html) `Free`
-- [Advanced Bash Scripting Lecture, bwHPC](https://indico.scc.kit.edu/event/410/attachments/1603/2217/01_2018-04-12_bwHPC_course_-_Adv_Bash_Scripting.pdf) `Free`
+- [Advanced Bash Scripting Guide - Mendel Cooper](https://www.tldp.org/LDP/abs/html/index.html) `Free`
+- [Advanced Bash Scripting Lecture - bwHPC](https://indico.scc.kit.edu/event/410/attachments/1603/2217/01_2018-04-12_bwHPC_course_-_Adv_Bash_Scripting.pdf) `Free`
 - [Bash Scripting Cheat Sheet](https://devhints.io/bash) `Free`
-- [Linux Basics: E-Learning Module on Linux and Bash Fundamentals](https://training.bwhpc.de/ilias/ilias.php?ref_id=310&from_page=5066&obj_id=1&cmd=layout&cmdClass=illmpresentationgui&cmdNode=cn&baseClass=ilLMPresentationGUI) `Free`
-- [The Missing Semester of Your CS Education: MIT lecture for shell, Vim, Git, etc.](https://missing.csail.mit.edu/) `Free`
-
+- [Linux Basics: E-Learning Module on Linux and Bash Fundamentals - bwHPC](https://training.bwhpc.de/ilias/ilias.php?ref_id=310&from_page=5066&obj_id=1&cmd=layout&cmdClass=illmpresentationgui&cmdNode=cn&baseClass=ilLMPresentationGUI) `Free`
+- [The Missing Semester of Your CS Education: MIT lecture for shell, Vim, Git, etc. - MIT](https://missing.csail.mit.edu/) `Free`
 
 ## Documentation and Style Guide
 - [Google Style Guides](https://google.github.io/styleguide/)
 - [Pandoc - Universal Document Converter](https://pandoc.org/)
 - [Sphinx – Python Documentation Generator](https://www.sphinx-doc.org/en/master/)
-
 
 ## Data Sets
 - [Fama-French Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) `Free`
