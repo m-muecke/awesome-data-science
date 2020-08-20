@@ -177,6 +177,9 @@ Table of contents
 - [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/) `Free`
 - [Multivariate Time Series Analysis: With R and Financial Applications - Ruey S. Tsay](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617908) `Paid`
 - [Nonlinear Time Series Analysis - Ruey S. Tsay and Rong Chen](https://www.wiley.com/en-us/Nonlinear+Time+Series+Analysis-p-9781119264071) `Paid`
+- [Nonlinear Time Series: Theory, Methods and Applications with R Examples - David S. Stoffer, Randal Douc, Éric Moulines](https://www.stat.pitt.edu/stoffer/nltsa/) `Paid`
+- [Time Series Analysis and Its Applications With R Examples - Robert H. Shumway and David S. Stoffer](https://www.stat.pitt.edu/stoffer/tsa4/) `Paid`
+- [Time Series: A Data Analysis Approach Using R - Robert H. Shumway and David S. Stoffer](https://www.stat.pitt.edu/stoffer/tsda/) `Paid`
 #### Links
 - [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
 ### Finance
