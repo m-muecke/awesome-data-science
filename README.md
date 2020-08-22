@@ -137,7 +137,7 @@ Table of contents
 ## R
 ### General
 #### Books
-- [Advanced R - Hadley Wickham](http://adv-r.had.co.nz/) `Free`
+- [Advanced R - Hadley Wickham](https://adv-r.hadley.nz/) `Free`
 - [An Introduction to R - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, David Lusseau](https://intro2r.com/) `Free`
 - [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
 - [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
