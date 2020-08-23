@@ -11,34 +11,35 @@ Table of contents
       * [Python](#python)
          * [General](#general)
             * [Books](#books)
+            * [Courses](#courses)
             * [Links](#links)
          * [Data Science](#data-science)
             * [Books](#books-1)
             * [Packages](#packages)
-            * [Courses](#courses)
+            * [Courses](#courses-1)
             * [Links](#links-1)
          * [Efficient Programming](#efficient-programming)
             * [Packages](#packages-1)
          * [NLP](#nlp)
             * [Packages](#packages-2)
             * [Books](#books-2)
-            * [Courses](#courses-1)
+            * [Courses](#courses-2)
          * [Finance](#finance)
             * [Books](#books-3)
-            * [Courses](#courses-2)
+            * [Courses](#courses-3)
          * [Web Development](#web-development)
             * [Packages](#packages-3)
             * [Books](#books-4)
-            * [Courses](#courses-3)
+            * [Courses](#courses-4)
       * [R](#r)
          * [General](#general-1)
             * [Books](#books-5)
             * [Links](#links-2)
-            * [Courses](#courses-4)
+            * [Courses](#courses-5)
          * [Data Science](#data-science-1)
             * [Books](#books-6)
             * [Links](#links-3)
-            * [Courses](#courses-5)
+            * [Courses](#courses-6)
          * [Econometrics](#econometrics)
             * [Books](#books-7)
             * [Link](#link)
@@ -48,7 +49,7 @@ Table of contents
          * [Finance](#finance-1)
             * [Books](#books-9)
             * [Links](#links-5)
-            * [Courses](#courses-6)
+            * [Courses](#courses-7)
          * [Web Development](#web-development-1)
             * [Packages](#packages-4)
             * [Books](#books-10)
@@ -67,9 +68,13 @@ Table of contents
 #### Books
 - [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
 - [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
+- [Python for Everybody - Charles R. Severance](https://www.py4e.com/book.php) `Free`
 - [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
 - [Think Python - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
 - [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
+#### Courses
+- [Python for Everybody (PY4E) - Charles R. Severance](https://www.py4e.com/lessons) `Free`
+- [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python) `Paid`
 #### Links
 - [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
@@ -133,6 +138,9 @@ Table of contents
 - [Flask Web Development - Miguel Grinberg](https://www.oreilly.com/library/view/flask-web-development/9781491991725/) `Paid`
 #### Courses
 - [CS50’s Web Programming with Python and JavaScript - Harvard University](https://cs50.harvard.edu/web/2020/) `Free`
+- [Django for Everybody (DJ4E) - Charles R. Severance](https://www.dj4e.com/lessons) `Free`
+- [Django for Everybody Specialization - Coursera](https://www.coursera.org/specializations/django) `Paid`
+- [Python Django Tutorial Series - Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) `Free`
 
 ## R
 ### General
