@@ -151,6 +151,7 @@ Table of contents
 - [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
 - [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
 - [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
+- [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/) `Free`
 - [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
 - [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
 - [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
@@ -164,8 +165,9 @@ Table of contents
 #### Books
 - [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastiec, Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
 - [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
-- [R Programming for Data Science - Roger D. Peng](https://leanpub.com/rprogramming) `Free`
+- [R Programming for Data Science - Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/) `Free`
 - [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
+- [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Chester Ismay and Albert Y. Kim](https://moderndive.com/) `Free`
 - [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
 
 #### Links
@@ -207,6 +209,7 @@ Table of contents
 - [blogdown - Create websites with R Mardown](https://github.com/rstudio/blogdown)
 - [plumber - A web API generator for R](https://www.rplumber.io/)
 #### Books
+- [Engineering Production-Grade Shiny Apps - Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard](https://engineering-shiny.org/index.html) `Free`
 - [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
 - [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
 
