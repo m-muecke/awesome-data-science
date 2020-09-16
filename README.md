@@ -123,6 +123,7 @@ Table of contents
 ### Finance
 #### Books
 - [Advances in Financial Machine Learning - Marcos López de Prado](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) `Paid`
+- [Machine Learning for Algorithmic Trading - Stefan Jansen](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) `Paid`
 - [Machine Learning in Finance: From Theory to Practice - Igor Halperin, Matthew F. Dixon, Paul Bilokon](https://www.springer.com/gp/book/9783030410674#:~:text=It%20presents%20a%20unified%20treatment,for%20financial%20data%20modeling%20and) `Paid`
 - [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
 #### Courses
@@ -163,6 +164,7 @@ Table of contents
 - [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
 ### Data Science
 #### Books
+- [Report Writing for Data Science in R - Roger D. Peng](https://leanpub.com/reportwriting?utm_source=coursera&utm_medium=syllabus&utm_campaign=CourseraSyllabus) `Free`
 - [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastiec, Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
 - [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
 - [R Programming for Data Science - Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/) `Free`
@@ -202,6 +204,7 @@ Table of contents
 - [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
 #### Courses
 - [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
+- [ECON 424/CFRM 462:  Computational Finance and Financial Econometrics - University of Washington](https://faculty.washington.edu/ezivot/econ424/424syllabus.htm)
 
 ### Web Development
 #### Packages
