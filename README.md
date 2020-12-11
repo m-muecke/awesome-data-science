@@ -84,7 +84,7 @@ Table of contents
 - [Introduction to Machine Learning with Python - Andreas C. Müller and Sarah Guido](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) `Paid`
 - [Python Data Science Handbook: Essential Tools for Working with Data - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/) `Free`
 - [Python for Data Analysis - Wes McKinney](https://wesmckinney.com/pages/book.html) `Paid`
-- [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/) `Free`
+- [Think Stats 2e - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/) `Free`
 - [Web Scraping with Python - Ryan Mitchell](https://www.oreilly.com/library/view/web-scraping-with/9781491985564/) `Paid`
 #### Packages
 - [numpy - Scientific Computing Library](https://numpy.org/)
