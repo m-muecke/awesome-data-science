@@ -262,4 +262,4 @@ Table of contents
 - [Think Complexity - Allen B. Downey](https://greenteapress.com/wp/think-complexity-2e/) `Free`
 - [Think DSP: Digital Signal Processing in Python - Allen B. Downey](https://greenteapress.com/wp/think-dsp/) `Free`
 - [Think Data Structures - Allen B. Downey](https://greenteapress.com/wp/think-data-structures/) `Free`
-- [Think Java - Allen Downey and Chris Mayfield](https://greenteapress.com/wp/think-java/) `Free`
+- [Think Java 2e - Allen Downey and Chris Mayfield](https://greenteapress.com/wp/think-java-2e/) `Free`
