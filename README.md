@@ -70,7 +70,7 @@ Table of contents
 - [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
 - [Python for Everybody - Charles R. Severance](https://www.py4e.com/book.php) `Free`
 - [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
-- [Think Python - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
+- [Think Python 2e - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
 - [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
 #### Courses
 - [Python for Everybody (PY4E) - Charles R. Severance](https://www.py4e.com/lessons) `Free`
