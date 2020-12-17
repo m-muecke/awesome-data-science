@@ -164,11 +164,13 @@ Table of contents
 - [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
 ### Data Science
 #### Books
-- [Report Writing for Data Science in R - Roger D. Peng](https://leanpub.com/reportwriting?utm_source=coursera&utm_medium=syllabus&utm_campaign=CourseraSyllabus) `Free`
+- [Geocomputation with R - Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/) `Free`
 - [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastiec, Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
 - [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
+- [R Graphics Cookbook - Winston Chang](https://r-graphics.org/) `Free`
 - [R Programming for Data Science - Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/) `Free`
 - [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
+- [Report Writing for Data Science in R - Roger D. Peng](https://leanpub.com/reportwriting?utm_source=coursera&utm_medium=syllabus&utm_campaign=CourseraSyllabus) `Free`
 - [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Chester Ismay and Albert Y. Kim](https://moderndive.com/) `Free`
 - [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
 
