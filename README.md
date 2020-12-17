@@ -206,7 +206,7 @@ Table of contents
 - [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
 #### Courses
 - [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
-- [ECON 424/CFRM 462:  Computational Finance and Financial Econometrics - University of Washington](https://faculty.washington.edu/ezivot/econ424/424syllabus.htm)
+- [ECON 424/CFRM 462:  Computational Finance and Financial Econometrics - University of Washington](https://faculty.washington.edu/ezivot/econ424/424syllabus.htm) `Free`
 
 ### Web Development
 #### Packages
