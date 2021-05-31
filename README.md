@@ -196,6 +196,7 @@ Table of contents
 * [An Introduction to R - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, David Lusseau](https://intro2r.com/) `Free`
 * [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
 * [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
+* [Functional Programming - Sara Altman, Bill Behrman, Hadley Wickham](https://dcl-prog.stanford.edu/index.html) `Free`
 * [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
 * [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
 * [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/) `Free`
@@ -343,6 +344,8 @@ Table of contents
 * [Statistical Inference for Data Science - Brian Caffo](https://leanpub.com/LittleInferenceBook/read) `Free`
 * [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
 * [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
+* [Time series analysis: forecasting and control: George EP Box, et al.](https://www.wiley.com/en-as/Time+Series+Analysis:+Forecasting+and+Control,+5th+Edition-p-9781118675021) `Paid`
+* [Introduction to time series and forecasting - Peter J. Brockwell and Richard A. Davis](https://www.springer.com/de/book/9783319298528) `Paid`
 
 ## Computer Science
 
