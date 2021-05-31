@@ -318,9 +318,11 @@ Table of contents
 
 ## Documentation and Style Guide
 
+* [Black - Python Code Formatter](https://github.com/psf/black)
 * [Google Style Guides](https://google.github.io/styleguide/)
 * [Pandoc - Universal Document Converter](https://pandoc.org/)
 * [Sphinx – Python Documentation Generator](https://www.sphinx-doc.org/en/master/)
+* [Tidyverse style guide for R](https://style.tidyverse.org/)
 
 ## Data Sets
 
