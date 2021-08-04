@@ -226,7 +226,7 @@ Table of contents
 * [Report Writing for Data Science in R - Roger D. Peng](https://leanpub.com/reportwriting?utm_source=coursera&utm_medium=syllabus&utm_campaign=CourseraSyllabus) `Free`
 * [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Chester Ismay and Albert Y. Kim](https://moderndive.com/) `Free`
 * [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
-* [Linear Algebra for Data Science](https://shainarace.github.io/LinearAlgebra/) `Free`
+* [Linear Algebra for Data Science - Shaina Race Bennett](https://shainarace.github.io/LinearAlgebra/) `Free`
 
 #### Links
 
