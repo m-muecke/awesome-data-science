@@ -293,6 +293,7 @@ Table of contents
 
 * [Engineering Production-Grade Shiny Apps - Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard](https://engineering-shiny.org/index.html) `Free`
 * [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
+* [Outstanding User Interfaces with Shiny - David Granjon](https://unleash-shiny.rinterface.com/index.html) `Free`
 * [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
 
 ## Linux and Shell/Bash
@@ -322,7 +323,7 @@ Table of contents
 * [Google Style Guides](https://google.github.io/styleguide/)
 * [Pandoc - Universal Document Converter](https://pandoc.org/)
 * [Sphinx – Python Documentation Generator](https://www.sphinx-doc.org/en/master/)
-* [Tidyverse style guide for R](https://style.tidyverse.org/)
+* [Tidyverse Style Guide for R](https://style.tidyverse.org/)
 
 ## Data Sets
 
