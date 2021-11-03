@@ -337,7 +337,7 @@ Table of contents
 * [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html) `Free`
 * [Yelp Academic Data Sets](https://www.yelp.com/dataset) `Free`
 
-## General Books (
+## General Books
 
 * [Advanced Statistical Computing - Roger D. Peng](https://leanpub.com/advstatcomp) `Free`
 * [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
