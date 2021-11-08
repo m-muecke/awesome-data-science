@@ -166,6 +166,20 @@ Table of contents
 * [Artificial Intelligence for Trading Nanodegree - Udacity](https://www.udacity.com/course/ai-for-trading--nd880) `Paid`
 * [Investment Management with Python and Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning) `Paid`
 
+### Quantitative Economics
+
+
+#### Packages
+
+* [QuantEcon - A high performance, open source Python code library for economics](https://github.com/QuantEcon/QuantEcon.py)
+
+#### Lectures
+
+* [Advanced Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python-advanced.quantecon.org/intro.html) `Free`
+* [Introduction to Economic Modeling and Data Science - Chase Coleman, Spencer Lyon, Jesse Perla, et al.](https://datascience.quantecon.org/) `Free`
+* [Python Programming for Economics and Finance - Thomas J. Sargent and John Stachurski](https://python-programming.quantecon.org/intro.html) `Free`
+* [Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python.quantecon.org/intro.html) `Free`
+
 ### Web Development
 
 #### Packages
