@@ -352,7 +352,7 @@ Table of contents
 * [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html) `Free`
 * [Yelp Academic Data Sets](https://www.yelp.com/dataset) `Free`
 
-## Mathematics
+## General Books
 
 * [Advanced Statistical Computing - Roger D. Peng](https://leanpub.com/advstatcomp) `Free`
 * [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
@@ -363,6 +363,8 @@ Table of contents
 * [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
 * [Time series analysis: forecasting and control: George EP Box, et al.](https://www.wiley.com/en-as/Time+Series+Analysis:+Forecasting+and+Control,+5th+Edition-p-9781118675021) `Paid`
 * [Introduction to time series and forecasting - Peter J. Brockwell and Richard A. Davis](https://www.springer.com/de/book/9783319298528) `Paid`
+* [Linear Algebra for Data Science with examples in R - Shaina Race Bennett](https://shainarace.github.io/LinearAlgebra/) `Free`
+* [Interpretable Machine Learning - Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Free`
 
 ## Computer Science
 
