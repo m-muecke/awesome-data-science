@@ -282,6 +282,7 @@ Table of contents
 #### Books
 
 * [Basic R for Finance - Diethelm Würtz, Tobias Setz, Yohan Chalabi, Longhow Lam, Andrew Ellis](https://www.rmetrics.org/ebooks-basicr) `Free`
+* [Introduction to Computational Finance and Financial Econometrics with R - Eric Zivot](https://bookdown.org/compfinezbook/introcompfinr/) `Free`
 * [Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/) `Free`
 * [Portfolio Optimization with R/Rmetrics - Diethelm Würtz, Tobias Setz, Yohan Chalabi, William Chen, Andrew Ellis](https://www.rmetrics.org/ebooks-portfolio) `Free`
 * [Topics in Empirical Finance with R and Rmetrics - Patrick Hénaff](https://www.rmetrics.org/ebooks-henaff) `Paid`
