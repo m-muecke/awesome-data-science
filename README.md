@@ -248,6 +248,7 @@ Table of contents
 #### Courses
 
 * [Data Science Specialization - Coursera](https://www.coursera.org/specializations/jhu-data-science) `Paid`
+* [Introduction to Machine Learning (I2ML) - LMU Munich](https://slds-lmu.github.io/i2ml/) `Free`
 
 ### Econometrics
 
@@ -342,12 +343,15 @@ Table of contents
 
 ## Data Sets
 
+* [European Central Bank’s Data Warehouse](https://sdw.ecb.europa.eu) `Free`
 * [Fama-French Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html) `Free`
 * [Google Data Set Search](https://datasetsearch.research.google.com/) `Free`
 * [Kaggle Data](https://www.kaggle.com/datasets) `Free`
+* [OECD Data Portal](https://data.oecd.org) `Free`
 * [OpinRank Data – Reviews From TripAdvisor \& Edmunds](http://kavita-ganesan.com/entity-ranking-data/#.XlQAAmhKiUm) `Free`
 * [Quandl - Financial, Economic, and Alternative Datasets](https://www.quandl.com/) `Free` `Paid`
 * [SNAP – Amazon Reviews](http://snap.stanford.edu/data/web-Amazon.html) `Free`
+* [St. Louis Federal Reserve Bank Economic Data (FRED)](https://fred.stlouisfed.org) `Free`
 * [UCI – Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php) `Free`
 * [University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets) `Free`
 * [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html) `Free`
