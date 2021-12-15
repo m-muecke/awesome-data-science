@@ -352,10 +352,13 @@ Table of contents
 * [Quandl - Financial, Economic, and Alternative Datasets](https://www.quandl.com/) `Free` `Paid`
 * [SNAP – Amazon Reviews](http://snap.stanford.edu/data/web-Amazon.html) `Free`
 * [St. Louis Federal Reserve Bank Economic Data (FRED)](https://fred.stlouisfed.org) `Free`
+* [U.S. Census Bureau Data](https://data.census.gov/cedsci/) `Free`
 * [UCI – Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php) `Free`
 * [University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets) `Free`
 * [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html) `Free`
+* [World Bank Open Data](https://data.worldbank.org)
 * [Yelp Academic Data Sets](https://www.yelp.com/dataset) `Free`
+* [eurostat - Statistical Database of the European Commision](https://ec.europa.eu/eurostat/web/main/data/database) `Free`
 
 ## General Books
 
