@@ -164,10 +164,10 @@ Table of contents
 #### Courses
 
 * [Artificial Intelligence for Trading Nanodegree - Udacity](https://www.udacity.com/course/ai-for-trading--nd880) `Paid`
+* [Financial Engineering and Risk Management Specialization](https://www.coursera.org/specializations/financialengineering) `Paid`
 * [Investment Management with Python and Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning) `Paid`
 
 ### Quantitative Economics
-
 
 #### Packages
 
@@ -356,7 +356,7 @@ Table of contents
 * [UCI – Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php) `Free`
 * [University of Illinois at Chicago - Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets) `Free`
 * [University of Texas - Multifaceted Text Classification Datasets](http://www.hlt.utdallas.edu/~sajib/multifacetedText.html) `Free`
-* [World Bank Open Data](https://data.worldbank.org)
+* [World Bank Open Data](https://data.worldbank.org) `Free`
 * [Yelp Academic Data Sets](https://www.yelp.com/dataset) `Free`
 * [eurostat - Statistical Database of the European Commision](https://ec.europa.eu/eurostat/web/main/data/database) `Free`
 
@@ -376,6 +376,7 @@ Table of contents
 
 ## Computer Science
 
+* [PostgreSQL for Everybody](https://www.pg4e.com) `Free`
 * [Think Complexity 2e - Allen B. Downey](https://greenteapress.com/wp/think-complexity-2e/) `Free`
 * [Think DSP: Digital Signal Processing in Python - Allen B. Downey](https://greenteapress.com/wp/think-dsp/) `Free`
 * [Think Data Structures - Allen B. Downey](https://greenteapress.com/wp/think-data-structures/) `Free`
