@@ -234,9 +234,7 @@ Useful programming and data science focused resources for daily work.
 
 ## Python
 
-### General
-
-#### Books
+### Books
 
 * [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
 * [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
@@ -245,20 +243,18 @@ Useful programming and data science focused resources for daily work.
 * [Think Python 2e - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
 * [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
 
-#### Courses
+### Courses
 
 * [Python for Everybody (PY4E) - Charles R. Severance](https://www.py4e.com/lessons) `Free`
 * [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python) `Paid`
 
-#### Links
+### Links
 
 * [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
 ## R
 
-### General
-
-#### Books
+### Books
 
 * [Advanced R - Hadley Wickham](https://adv-r.hadley.nz/) `Free`
 * [Advanced R Solutions - Malte Grosser, Henning Bumann, Hadley Wickham](https://advanced-r-solutions.rbind.io/) `Free`
@@ -273,15 +269,14 @@ Useful programming and data science focused resources for daily work.
 * [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
 * [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
 
-#### Links
+### Links
 
 * [CRAN Task Views](https://cran.r-project.org/web/views/)
 * [Github Curated List: Awesome R](https://github.com/qinwf/awesome-R)
 
-#### Courses
+### Courses
 
 * [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
-
 
 ## Linux and Shell/Bash
 
@@ -336,5 +331,3 @@ Useful programming and data science focused resources for daily work.
 * [PostgreSQL for Everybody](https://www.pg4e.com) `Free`
 * [Think Complexity 2e - Allen B. Downey](https://greenteapress.com/wp/think-complexity-2e/) `Free`
 * [Think DSP: Digital Signal Processing in Python - Allen B. Downey](https://greenteapress.com/wp/think-dsp/) `Free`
-* [Think Data Structures - Allen B. Downey](https://greenteapress.com/wp/think-data-structures/) `Free`
-* [Think Java 2e - Allen Downey and Chris Mayfield](https://greenteapress.com/wp/think-java-2e/) `Free`
