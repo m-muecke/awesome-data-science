@@ -63,7 +63,7 @@ Table of contents
       * [Courses, Guides, Lectures, etc](#courses-guides-lectures-etc)
     * [Documentation and Style Guide](#documentation-and-style-guide)
     * [Data Sets](#data-sets)
-    * [Mathematics](#mathematics)
+    * [General Book](#general-books)
     * [Computer Science](#computer-science)
 
 ## Python
@@ -120,6 +120,11 @@ Table of contents
 
 * [Dive into Deep Learning - Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/index.html) `Free`
 * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) `Free`
+
+
+#### Courses
+
+* [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) `Free`
 
 ### Efficient Programming
 
@@ -366,13 +371,14 @@ Table of contents
 * [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
 * [Convex Optimization - Stephen Boyd and Lieven Vandenberghe](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) `Free`
 * [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) `Free`
+* [Interpretable Machine Learning - Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Free`
+* [Introduction to time series and forecasting - Peter J. Brockwell and Richard A. Davis](https://www.springer.com/de/book/9783319298528) `Paid`
+* [Linear Algebra Review - J. Zico Kolter](https://www.cs.cmu.edu/~zkolter/course/linalg/) `Free`
+* [Linear Algebra for Data Science with examples in R - Shaina Race Bennett](https://shainarace.github.io/LinearAlgebra/) `Free`
 * [Statistical Inference for Data Science - Brian Caffo](https://leanpub.com/LittleInferenceBook/read) `Free`
 * [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
 * [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
 * [Time series analysis: forecasting and control: George EP Box, et al.](https://www.wiley.com/en-as/Time+Series+Analysis:+Forecasting+and+Control,+5th+Edition-p-9781118675021) `Paid`
-* [Introduction to time series and forecasting - Peter J. Brockwell and Richard A. Davis](https://www.springer.com/de/book/9783319298528) `Paid`
-* [Linear Algebra for Data Science with examples in R - Shaina Race Bennett](https://shainarace.github.io/LinearAlgebra/) `Free`
-* [Interpretable Machine Learning - Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Free`
 
 ## Computer Science
 
