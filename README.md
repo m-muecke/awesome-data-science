@@ -7,6 +7,18 @@ Useful programming and data science focused resources for daily work.
 
 ## Data Science
 
+### Books
+
+* [Advanced Statistical Computing - Roger D. Peng](https://leanpub.com/advstatcomp) `Free`
+* [Convex Optimization - Stephen Boyd and Lieven Vandenberghe](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) `Free`
+* [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) `Free`
+* [Interpretable Machine Learning - Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Free`
+* [Linear Algebra Review - J. Zico Kolter](https://www.cs.cmu.edu/~zkolter/course/linalg/) `Free`
+* [Linear Algebra for Data Science with examples in R - Shaina Race Bennett](https://shainarace.github.io/LinearAlgebra/) `Free`
+* [Statistical Inference for Data Science - Brian Caffo](https://leanpub.com/LittleInferenceBook/read) `Free`
+* [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
+* [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
+
 ### Python
 
 #### Books
@@ -56,22 +68,10 @@ Useful programming and data science focused resources for daily work.
 * [Data Science Specialization - Coursera](https://www.coursera.org/specializations/jhu-data-science) `Paid`
 * [Introduction to Machine Learning (I2ML) - LMU Munich](https://slds-lmu.github.io/i2ml/) `Free`
 
-## Quantitative Economics
-
-### Python
-
-#### Packages
-
-* [QuantEcon - A high performance, open source Python code library for economics](https://github.com/QuantEcon/QuantEcon.py)
-
-#### Lectures
-
-* [Advanced Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python-advanced.quantecon.org/intro.html) `Free`
-* [Introduction to Economic Modeling and Data Science - Chase Coleman, Spencer Lyon, Jesse Perla, et al.](https://datascience.quantecon.org/) `Free`
-* [Python Programming for Economics and Finance - Thomas J. Sargent and John Stachurski](https://python-programming.quantecon.org/intro.html) `Free`
-* [Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python.quantecon.org/intro.html) `Free`
-
 ## Finance
+
+### Books
+* [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
 
 ### Python
 
@@ -114,7 +114,24 @@ Useful programming and data science focused resources for daily work.
 * [Outstanding User Interfaces with Shiny - David Granjon](https://unleash-shiny.rinterface.com/index.html) `Free`
 * [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
 
+## Quantitative Economics
+
+### Python
+
+#### Packages
+
+* [QuantEcon - A high performance, open source Python code library for economics](https://github.com/QuantEcon/QuantEcon.py)
+
+#### Lectures
+
+* [Advanced Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python-advanced.quantecon.org/intro.html) `Free`
+* [Introduction to Economic Modeling and Data Science - Chase Coleman, Spencer Lyon, Jesse Perla, et al.](https://datascience.quantecon.org/) `Free`
+* [Python Programming for Economics and Finance - Thomas J. Sargent and John Stachurski](https://python-programming.quantecon.org/intro.html) `Free`
+* [Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python.quantecon.org/intro.html) `Free`
+
 ## Time Series
+
+### Books
 
 * [Introduction to time series and forecasting - Peter J. Brockwell and Richard A. Davis](https://www.springer.com/de/book/9783319298528) `Paid`
 * [Time series analysis: forecasting and control: George EP Box, et al.](https://www.wiley.com/en-as/Time+Series+Analysis:+Forecasting+and+Control,+5th+Edition-p-9781118675021) `Paid`
@@ -138,7 +155,7 @@ Useful programming and data science focused resources for daily work.
 
 ## Econometrics
 
-## R
+### R
 
 #### Books
 
@@ -313,19 +330,6 @@ Useful programming and data science focused resources for daily work.
 * [World Bank Open Data](https://data.worldbank.org) `Free`
 * [Yelp Academic Data Sets](https://www.yelp.com/dataset) `Free`
 * [eurostat - Statistical Database of the European Commision](https://ec.europa.eu/eurostat/web/main/data/database) `Free`
-
-## General Books
-
-* [Advanced Statistical Computing - Roger D. Peng](https://leanpub.com/advstatcomp) `Free`
-* [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
-* [Convex Optimization - Stephen Boyd and Lieven Vandenberghe](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) `Free`
-* [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) `Free`
-* [Interpretable Machine Learning - Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Free`
-* [Linear Algebra Review - J. Zico Kolter](https://www.cs.cmu.edu/~zkolter/course/linalg/) `Free`
-* [Linear Algebra for Data Science with examples in R - Shaina Race Bennett](https://shainarace.github.io/LinearAlgebra/) `Free`
-* [Statistical Inference for Data Science - Brian Caffo](https://leanpub.com/LittleInferenceBook/read) `Free`
-* [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
-* [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
 
 ## Computer Science
 
