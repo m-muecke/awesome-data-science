@@ -5,90 +5,9 @@ Useful programming and data science focused resources for daily work.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
-Table of contents
-=================
+## Data Science
 
-* [Collection of data science focused resources](#collection-of-data-science-focused-resources)
-  * [Table of contents](#table-of-contents)
-    * [Python](#python)
-       * [General](#general)
-          * [Books](#books)
-          * [Courses](#courses)
-          * [Links](#links)
-       * [Data Science](#data-science)
-          * [Books](#books-1)
-          * [Packages](#packages)
-          * [Courses](#courses-1)
-          * [Links](#links-1)
-       * [Deep Learning](#deep-learning)
-          * [Books](#books-2)
-       * [Efficient Programming](#efficient-programming)
-          * [Packages](#packages-1)
-       * [NLP](#nlp)
-          * [Packages](#packages-2)
-          * [Books](#books-3)
-          * [Courses](#courses-2)
-       * [Finance](#finance)
-          * [Books](#books-4)
-          * [Courses](#courses-3)
-       * [Web Development](#web-development)
-          * [Packages](#packages-3)
-          * [Books](#books-5)
-          * [Courses](#courses-4)
-    * [R](#r)
-       * [General](#general-1)
-          * [Books](#books-6)
-          * [Links](#links-2)
-          * [Courses](#courses-5)
-       * [Data Science](#data-science-1)
-          * [Books](#books-7)
-          * [Links](#links-3)
-          * [Courses](#courses-6)
-       * [Econometrics](#econometrics)
-          * [Books](#books-8)
-          * [Link](#link)
-       * [Time Series](#time-series)
-          * [Books](#books-9)
-          * [Links](#links-4)
-       * [Finance](#finance-1)
-          * [Books](#books-10)
-          * [Links](#links-5)
-          * [Courses](#courses-7)
-       * [Web Development](#web-development-1)
-          * [Packages](#packages-4)
-          * [Books](#books-11)
-    * [Linux and Shell/Bash](#linux-and-shellbash)
-      * [Books](#books-12)
-      * [Links](#links-6)
-      * [Courses, Guides, Lectures, etc](#courses-guides-lectures-etc)
-    * [Documentation and Style Guide](#documentation-and-style-guide)
-    * [Data Sets](#data-sets)
-    * [General Book](#general-books)
-    * [Computer Science](#computer-science)
-
-## Python
-
-### General
-
-#### Books
-
-* [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
-* [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
-* [Python for Everybody - Charles R. Severance](https://www.py4e.com/book.php) `Free`
-* [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
-* [Think Python 2e - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
-* [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
-
-#### Courses
-
-* [Python for Everybody (PY4E) - Charles R. Severance](https://www.py4e.com/lessons) `Free`
-* [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python) `Paid`
-
-#### Links
-
-* [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
-
-### Data Science
+### Python
 
 #### Books
 
@@ -114,28 +33,125 @@ Table of contents
 
 * [Github Curated List: Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
 
-### Deep Learning
+### R
 
 #### Books
 
-* [Dive into Deep Learning - Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/index.html) `Free`
-* [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) `Free`
+* [Geocomputation with R - Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/) `Free`
+* [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastiec, Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
+* [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
+* [R Graphics Cookbook - Winston Chang](https://r-graphics.org/) `Free`
+* [R Programming for Data Science - Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/) `Free`
+* [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
+* [Report Writing for Data Science in R - Roger D. Peng](https://leanpub.com/reportwriting?utm_source=coursera&utm_medium=syllabus&utm_campaign=CourseraSyllabus) `Free`
+* [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Chester Ismay and Albert Y. Kim](https://moderndive.com/) `Free`
+* [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
 
+#### Links
+
+* [Github Curated List: Data Science R](https://github.com/ujjwalkarn/DataScienceR)
 
 #### Courses
 
-* [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) `Free`
+* [Data Science Specialization - Coursera](https://www.coursera.org/specializations/jhu-data-science) `Paid`
+* [Introduction to Machine Learning (I2ML) - LMU Munich](https://slds-lmu.github.io/i2ml/) `Free`
 
-### Efficient Programming
+## Quantitative Economics
+
+### Python
 
 #### Packages
 
-* [cuDF – GPU-based pandas](https://github.com/rapidsai/cudf)
-* [cuML – GPU-based machine learning](https://github.com/rapidsai/cuml)
-* [cuPy – GPU-based numpy](https://cupy.chainer.org/)
-* [numba – Machine Code based Python and NumPy](http://numba.pydata.org/)
+* [QuantEcon - A high performance, open source Python code library for economics](https://github.com/QuantEcon/QuantEcon.py)
 
-### NLP
+#### Lectures
+
+* [Advanced Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python-advanced.quantecon.org/intro.html) `Free`
+* [Introduction to Economic Modeling and Data Science - Chase Coleman, Spencer Lyon, Jesse Perla, et al.](https://datascience.quantecon.org/) `Free`
+* [Python Programming for Economics and Finance - Thomas J. Sargent and John Stachurski](https://python-programming.quantecon.org/intro.html) `Free`
+* [Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python.quantecon.org/intro.html) `Free`
+
+## Finance
+
+### Python
+
+#### Books
+
+* [Advances in Financial Machine Learning - Marcos López de Prado](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) `Paid`
+* [Machine Learning for Algorithmic Trading - Stefan Jansen](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) `Paid`
+* [Machine Learning in Finance: From Theory to Practice - Igor Halperin, Matthew F. Dixon, Paul Bilokon](https://www.springer.com/gp/book/9783030410674#:~:text=It%20presents%20a%20unified%20treatment,for%20financial%20data%20modeling%20and) `Paid`
+* [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
+
+#### Courses
+
+* [Artificial Intelligence for Trading Nanodegree - Udacity](https://www.udacity.com/course/ai-for-trading--nd880) `Paid`
+* [Financial Engineering and Risk Management Specialization](https://www.coursera.org/specializations/financialengineering) `Paid`
+* [Investment Management with Python and Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning) `Paid`
+
+### R
+
+#### Books
+
+* [Basic R for Finance - Diethelm Würtz, Tobias Setz, Yohan Chalabi, Longhow Lam, Andrew Ellis](https://www.rmetrics.org/ebooks-basicr) `Free`
+* [Introduction to Computational Finance and Financial Econometrics with R - Eric Zivot](https://bookdown.org/compfinezbook/introcompfinr/) `Free`
+* [Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/) `Free`
+* [Portfolio Optimization with R/Rmetrics - Diethelm Würtz, Tobias Setz, Yohan Chalabi, William Chen, Andrew Ellis](https://www.rmetrics.org/ebooks-portfolio) `Free`
+* [Topics in Empirical Finance with R and Rmetrics - Patrick Hénaff](https://www.rmetrics.org/ebooks-henaff) `Paid`
+
+#### Links
+
+* [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
+
+#### Courses
+
+* [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
+* [ECON 424/CFRM 462:  Computational Finance and Financial Econometrics - University of Washington](https://faculty.washington.edu/ezivot/econ424/424syllabus.htm) `Free`
+
+#### Books
+
+* [Engineering Production-Grade Shiny Apps - Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard](https://engineering-shiny.org/index.html) `Free`
+* [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
+* [Outstanding User Interfaces with Shiny - David Granjon](https://unleash-shiny.rinterface.com/index.html) `Free`
+* [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
+
+## Time Series
+
+* [Introduction to time series and forecasting - Peter J. Brockwell and Richard A. Davis](https://www.springer.com/de/book/9783319298528) `Paid`
+* [Time series analysis: forecasting and control: George EP Box, et al.](https://www.wiley.com/en-as/Time+Series+Analysis:+Forecasting+and+Control,+5th+Edition-p-9781118675021) `Paid`
+
+### R
+
+#### Books
+
+* [An Introduction to Analysis of Financial Data with R - Ruey S. Tsay](https://www.wiley.com/en-us/An+Introduction+to+Analysis+of+Financial+Data+with+R-p-9780470890813) `Paid`
+* [Analysis of Financial Time Series - Ruey S. Tsay](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354) `Paid`
+* [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/) `Free`
+* [Multivariate Time Series Analysis: With R and Financial Applications - Ruey S. Tsay](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617908) `Paid`
+* [Nonlinear Time Series Analysis - Ruey S. Tsay and Rong Chen](https://www.wiley.com/en-us/Nonlinear+Time+Series+Analysis-p-9781119264071) `Paid`
+* [Nonlinear Time Series: Theory, Methods and Applications with R Examples - David S. Stoffer, Randal Douc, Éric Moulines](https://www.stat.pitt.edu/stoffer/nltsa/) `Paid`
+* [Time Series Analysis and Its Applications With R Examples - Robert H. Shumway and David S. Stoffer](https://www.stat.pitt.edu/stoffer/tsa4/) `Paid`
+* [Time Series: A Data Analysis Approach Using R - Robert H. Shumway and David S. Stoffer](https://www.stat.pitt.edu/stoffer/tsda/) `Paid`
+
+#### Links
+
+* [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
+
+## Econometrics
+
+## R
+
+#### Books
+
+* [Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber, Martin Schmelzer](https://www.econometrics-with-r.org/) `Free`
+* [Panel Data Econometrics with R - Yves Croissant and Givanni Millo](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119504641) `Paid`
+
+#### Link
+
+* [CRAN Task View: Econometrics](https://cran.r-project.org/web/views/Econometrics.html)
+
+## NLP
+
+### Python
 
 #### Packages
 
@@ -157,35 +173,22 @@ Table of contents
 * [CS224N Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) `Free`
 * [Natural Language Processing Nanodegree - Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) `Paid`
 
-### Finance
+## Deep Learning
+
+### Python
 
 #### Books
 
-* [Advances in Financial Machine Learning - Marcos López de Prado](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) `Paid`
-* [Machine Learning for Algorithmic Trading - Stefan Jansen](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) `Paid`
-* [Machine Learning in Finance: From Theory to Practice - Igor Halperin, Matthew F. Dixon, Paul Bilokon](https://www.springer.com/gp/book/9783030410674#:~:text=It%20presents%20a%20unified%20treatment,for%20financial%20data%20modeling%20and) `Paid`
-* [Python for Finance - Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) `Paid`
+* [Dive into Deep Learning - Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/index.html) `Free`
+* [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) `Free`
 
 #### Courses
 
-* [Artificial Intelligence for Trading Nanodegree - Udacity](https://www.udacity.com/course/ai-for-trading--nd880) `Paid`
-* [Financial Engineering and Risk Management Specialization](https://www.coursera.org/specializations/financialengineering) `Paid`
-* [Investment Management with Python and Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning) `Paid`
+* [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) `Free`
 
-### Quantitative Economics
+## Web Development
 
-#### Packages
-
-* [QuantEcon - A high performance, open source Python code library for economics](https://github.com/QuantEcon/QuantEcon.py)
-
-#### Lectures
-
-* [Advanced Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python-advanced.quantecon.org/intro.html) `Free`
-* [Introduction to Economic Modeling and Data Science - Chase Coleman, Spencer Lyon, Jesse Perla, et al.](https://datascience.quantecon.org/) `Free`
-* [Python Programming for Economics and Finance - Thomas J. Sargent and John Stachurski](https://python-programming.quantecon.org/intro.html) `Free`
-* [Quantitative Economics with Python - Thomas J. Sargent and John Stachurski](https://python.quantecon.org/intro.html) `Free`
-
-### Web Development
+### Python
 
 #### Packages
 
@@ -203,6 +206,36 @@ Table of contents
 * [Django for Everybody (DJ4E) - Charles R. Severance](https://www.dj4e.com/lessons) `Free`
 * [Django for Everybody Specialization - Coursera](https://www.coursera.org/specializations/django) `Paid`
 * [Python Django Tutorial Series - Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) `Free`
+
+### R
+
+#### Packages
+
+* [Shiny - Build interactive web applications](https://shiny.rstudio.com/)
+* [blogdown - Create websites with R Mardown](https://github.com/rstudio/blogdown)
+* [plumber - A web API generator for R](https://www.rplumber.io/)
+
+## Python
+
+### General
+
+#### Books
+
+* [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
+* [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
+* [Python for Everybody - Charles R. Severance](https://www.py4e.com/book.php) `Free`
+* [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
+* [Think Python 2e - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
+* [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
+
+#### Courses
+
+* [Python for Everybody (PY4E) - Charles R. Severance](https://www.py4e.com/lessons) `Free`
+* [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python) `Paid`
+
+#### Links
+
+* [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
 ## R
 
@@ -232,90 +265,6 @@ Table of contents
 
 * [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
 
-### Data Science
-
-#### Books
-
-* [Geocomputation with R - Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/) `Free`
-* [Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastiec, Rob Tibshirani](https://www-bcf.usc.edu/~gareth/ISL/) `Free`
-* [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
-* [R Graphics Cookbook - Winston Chang](https://r-graphics.org/) `Free`
-* [R Programming for Data Science - Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/) `Free`
-* [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
-* [Report Writing for Data Science in R - Roger D. Peng](https://leanpub.com/reportwriting?utm_source=coursera&utm_medium=syllabus&utm_campaign=CourseraSyllabus) `Free`
-* [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Chester Ismay and Albert Y. Kim](https://moderndive.com/) `Free`
-* [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
-
-#### Links
-
-* [Github Curated List: Data Science R](https://github.com/ujjwalkarn/DataScienceR)
-
-#### Courses
-
-* [Data Science Specialization - Coursera](https://www.coursera.org/specializations/jhu-data-science) `Paid`
-* [Introduction to Machine Learning (I2ML) - LMU Munich](https://slds-lmu.github.io/i2ml/) `Free`
-
-### Econometrics
-
-#### Books
-
-* [Introduction to Econometrics with R - Christoph Hanck, Martin Arnold, Alexander Gerber, Martin Schmelzer](https://www.econometrics-with-r.org/) `Free`
-* [Panel Data Econometrics with R - Yves Croissant and Givanni Millo](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119504641) `Paid`
-
-#### Link
-
-* [CRAN Task View: Econometrics](https://cran.r-project.org/web/views/Econometrics.html)
-
-### Time Series
-
-#### Books
-
-* [An Introduction to Analysis of Financial Data with R - Ruey S. Tsay](https://www.wiley.com/en-us/An+Introduction+to+Analysis+of+Financial+Data+with+R-p-9780470890813) `Paid`
-* [Analysis of Financial Time Series - Ruey S. Tsay](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354) `Paid`
-* [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/) `Free`
-* [Multivariate Time Series Analysis: With R and Financial Applications - Ruey S. Tsay](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617908) `Paid`
-* [Nonlinear Time Series Analysis - Ruey S. Tsay and Rong Chen](https://www.wiley.com/en-us/Nonlinear+Time+Series+Analysis-p-9781119264071) `Paid`
-* [Nonlinear Time Series: Theory, Methods and Applications with R Examples - David S. Stoffer, Randal Douc, Éric Moulines](https://www.stat.pitt.edu/stoffer/nltsa/) `Paid`
-* [Time Series Analysis and Its Applications With R Examples - Robert H. Shumway and David S. Stoffer](https://www.stat.pitt.edu/stoffer/tsa4/) `Paid`
-* [Time Series: A Data Analysis Approach Using R - Robert H. Shumway and David S. Stoffer](https://www.stat.pitt.edu/stoffer/tsda/) `Paid`
-
-#### Links
-
-* [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
-
-### Finance
-
-#### Books
-
-* [Basic R for Finance - Diethelm Würtz, Tobias Setz, Yohan Chalabi, Longhow Lam, Andrew Ellis](https://www.rmetrics.org/ebooks-basicr) `Free`
-* [Introduction to Computational Finance and Financial Econometrics with R - Eric Zivot](https://bookdown.org/compfinezbook/introcompfinr/) `Free`
-* [Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/) `Free`
-* [Portfolio Optimization with R/Rmetrics - Diethelm Würtz, Tobias Setz, Yohan Chalabi, William Chen, Andrew Ellis](https://www.rmetrics.org/ebooks-portfolio) `Free`
-* [Topics in Empirical Finance with R and Rmetrics - Patrick Hénaff](https://www.rmetrics.org/ebooks-henaff) `Paid`
-
-#### Links
-
-* [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html)
-
-#### Courses
-
-* [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
-* [ECON 424/CFRM 462:  Computational Finance and Financial Econometrics - University of Washington](https://faculty.washington.edu/ezivot/econ424/424syllabus.htm) `Free`
-
-### Web Development
-
-#### Packages
-
-* [Shiny - Build interactive web applications](https://shiny.rstudio.com/)
-* [blogdown - Create websites with R Mardown](https://github.com/rstudio/blogdown)
-* [plumber - A web API generator for R](https://www.rplumber.io/)
-
-#### Books
-
-* [Engineering Production-Grade Shiny Apps - Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard](https://engineering-shiny.org/index.html) `Free`
-* [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
-* [Outstanding User Interfaces with Shiny - David Granjon](https://unleash-shiny.rinterface.com/index.html) `Free`
-* [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
 
 ## Linux and Shell/Bash
 
@@ -372,13 +321,11 @@ Table of contents
 * [Convex Optimization - Stephen Boyd and Lieven Vandenberghe](http://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) `Free`
 * [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) `Free`
 * [Interpretable Machine Learning - Christoph Molnar](https://christophm.github.io/interpretable-ml-book/) `Free`
-* [Introduction to time series and forecasting - Peter J. Brockwell and Richard A. Davis](https://www.springer.com/de/book/9783319298528) `Paid`
 * [Linear Algebra Review - J. Zico Kolter](https://www.cs.cmu.edu/~zkolter/course/linalg/) `Free`
 * [Linear Algebra for Data Science with examples in R - Shaina Race Bennett](https://shainarace.github.io/LinearAlgebra/) `Free`
 * [Statistical Inference for Data Science - Brian Caffo](https://leanpub.com/LittleInferenceBook/read) `Free`
 * [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
 * [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
-* [Time series analysis: forecasting and control: George EP Box, et al.](https://www.wiley.com/en-as/Time+Series+Analysis:+Forecasting+and+Control,+5th+Edition-p-9781118675021) `Paid`
 
 ## Computer Science
 
@@ -387,4 +334,3 @@ Table of contents
 * [Think DSP: Digital Signal Processing in Python - Allen B. Downey](https://greenteapress.com/wp/think-dsp/) `Free`
 * [Think Data Structures - Allen B. Downey](https://greenteapress.com/wp/think-data-structures/) `Free`
 * [Think Java 2e - Allen Downey and Chris Mayfield](https://greenteapress.com/wp/think-java-2e/) `Free`
-
