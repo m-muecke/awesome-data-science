@@ -5,6 +5,52 @@ Useful programming and data science focused resources for daily work.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
+## Python
+
+### Books
+
+* [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
+* [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
+* [Python for Everybody - Charles R. Severance](https://www.py4e.com/book.php) `Free`
+* [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
+* [Think Python 2e - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
+* [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
+
+### Courses
+
+* [Python for Everybody (PY4E) - Charles R. Severance](https://www.py4e.com/lessons) `Free`
+* [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python) `Paid`
+
+### Links
+
+* [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
+
+## R
+
+### Books
+
+* [Advanced R - Hadley Wickham](https://adv-r.hadley.nz/) `Free`
+* [Advanced R Solutions - Malte Grosser, Henning Bumann, Hadley Wickham](https://advanced-r-solutions.rbind.io/) `Free`
+* [An Introduction to R - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, David Lusseau](https://intro2r.com/) `Free`
+* [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
+* [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
+* [Functional Programming - Sara Altman, Bill Behrman, Hadley Wickham](https://dcl-prog.stanford.edu/index.html) `Free`
+* [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
+* [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
+* [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/) `Free`
+* [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
+* [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
+* [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
+
+### Links
+
+* [CRAN Task Views](https://cran.r-project.org/web/views/)
+* [Github Curated List: Awesome R](https://github.com/qinwf/awesome-R)
+
+### Courses
+
+* [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
+
 ## Data Science
 
 ### Books
@@ -231,52 +277,6 @@ Useful programming and data science focused resources for daily work.
 * [Shiny - Build interactive web applications](https://shiny.rstudio.com/)
 * [blogdown - Create websites with R Mardown](https://github.com/rstudio/blogdown)
 * [plumber - A web API generator for R](https://www.rplumber.io/)
-
-## Python
-
-### Books
-
-* [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
-* [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
-* [Python for Everybody - Charles R. Severance](https://www.py4e.com/book.php) `Free`
-* [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
-* [Think Python 2e - Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) `Free`
-* [Whirwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) `Free`
-
-### Courses
-
-* [Python for Everybody (PY4E) - Charles R. Severance](https://www.py4e.com/lessons) `Free`
-* [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python) `Paid`
-
-### Links
-
-* [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
-
-## R
-
-### Books
-
-* [Advanced R - Hadley Wickham](https://adv-r.hadley.nz/) `Free`
-* [Advanced R Solutions - Malte Grosser, Henning Bumann, Hadley Wickham](https://advanced-r-solutions.rbind.io/) `Free`
-* [An Introduction to R - Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, David Lusseau](https://intro2r.com/) `Free`
-* [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
-* [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
-* [Functional Programming - Sara Altman, Bill Behrman, Hadley Wickham](https://dcl-prog.stanford.edu/index.html) `Free`
-* [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
-* [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
-* [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/) `Free`
-* [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
-* [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
-* [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
-
-### Links
-
-* [CRAN Task Views](https://cran.r-project.org/web/views/)
-* [Github Curated List: Awesome R](https://github.com/qinwf/awesome-R)
-
-### Courses
-
-* [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
 
 ## Linux and Shell/Bash
 
