@@ -300,7 +300,8 @@ Useful programming and data science focused resources for daily work.
 #### Courses
 
 * [A Code-First Intro to Natural Language Processing - fast.ai](https://github.com/fastai/course-nlp) `Free`
-* [CS224N Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) `Free`
+* [CS224U: Natural Language Understading](https://web.stanford.edu/class/cs224u/2021/index.html) `Free`
+* [CS224n: Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) `Free`
 * [Natural Language Processing Nanodegree - Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) `Paid`
 
 ## Deep Learning
