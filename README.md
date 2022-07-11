@@ -184,6 +184,7 @@ Useful programming and data science focused resources for daily work.
 ## Finance
 
 ### Books
+
 * [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
 
 ### Python
@@ -209,6 +210,7 @@ Useful programming and data science focused resources for daily work.
 * [Introduction to Computational Finance and Financial Econometrics with R - Eric Zivot](https://bookdown.org/compfinezbook/introcompfinr/) `Free`
 * [Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/) `Free`
 * [Portfolio Optimization with R/Rmetrics - Diethelm Würtz, Tobias Setz, Yohan Chalabi, William Chen, Andrew Ellis](https://www.rmetrics.org/ebooks-portfolio) `Free`
+* [Tidy Finance with R - Christoph Scheuch, Stefan Voigt, Patrick Weiss](https://www.tidy-finance.org) `Free`
 * [Topics in Empirical Finance with R and Rmetrics - Patrick Hénaff](https://www.rmetrics.org/ebooks-henaff) `Paid`
 
 #### Links
