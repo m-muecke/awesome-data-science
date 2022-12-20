@@ -248,7 +248,10 @@ Useful programming and data science focused resources for daily work.
 
 ### Books
 
+* [Analysis of Financial Time Series - Ruey S. Tsay](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354) `Paid`
+* [Forecasting for Economics and business - Gloria González-Rivera](https://www.amazon.com/Forecasting-Economics-Business-Pearson/dp/0131474936) `Paid`
 * [Introduction to time series and forecasting - Peter J. Brockwell and Richard A. Davis](https://www.springer.com/de/book/9783319298528) `Paid`
+* [Nonlinear Time Series Analysis - Ruey S. Tsay and Rong Chen](https://www.wiley.com/en-us/Nonlinear+Time+Series+Analysis-p-9781119264071) `Paid`
 * [Time series analysis: forecasting and control: George EP Box, et al.](https://www.wiley.com/en-as/Time+Series+Analysis:+Forecasting+and+Control,+5th+Edition-p-9781118675021) `Paid`
 
 ### R
@@ -256,10 +259,8 @@ Useful programming and data science focused resources for daily work.
 #### Books
 
 * [An Introduction to Analysis of Financial Data with R - Ruey S. Tsay](https://www.wiley.com/en-us/An+Introduction+to+Analysis+of+Financial+Data+with+R-p-9780470890813) `Paid`
-* [Analysis of Financial Time Series - Ruey S. Tsay](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9780470414354) `Paid`
 * [Forecasting: Principles and Practice - Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/) `Free`
 * [Multivariate Time Series Analysis: With R and Financial Applications - Ruey S. Tsay](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617908) `Paid`
-* [Nonlinear Time Series Analysis - Ruey S. Tsay and Rong Chen](https://www.wiley.com/en-us/Nonlinear+Time+Series+Analysis-p-9781119264071) `Paid`
 * [Nonlinear Time Series: Theory, Methods and Applications with R Examples - David S. Stoffer, Randal Douc, Éric Moulines](https://www.stat.pitt.edu/stoffer/nltsa/) `Paid`
 * [Time Series Analysis and Its Applications With R Examples - Robert H. Shumway and David S. Stoffer](https://www.stat.pitt.edu/stoffer/tsa4/) `Paid`
 * [Time Series: A Data Analysis Approach Using R - Robert H. Shumway and David S. Stoffer](https://www.stat.pitt.edu/stoffer/tsda/) `Paid`
@@ -308,12 +309,16 @@ Useful programming and data science focused resources for daily work.
 
 ## Deep Learning
 
+### Books
+
+* [Dive into Deep Learning - Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/index.html) `Free`
+* [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) `Free`
+
 ### Python
 
 #### Books
 
-* [Dive into Deep Learning - Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola](https://d2l.ai/index.html) `Free`
-* [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/) `Free`
+- [Deep Learning with PyTorch - Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch) `Paid`
 
 #### Courses
 
