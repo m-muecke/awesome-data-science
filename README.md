@@ -5,72 +5,75 @@ Useful programming and data science focused resources for daily work.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
-- [Collection of data science focused resources](#collection-of-data-science-focused-resources)
-  * [Python](#python)
-    + [Books](#books)
-    + [Courses](#courses)
-    + [Links](#links)
-  * [R](#r)
-    + [Books](#books-1)
-    + [Links](#links-1)
-    + [Courses](#courses-1)
-  * [Data Science](#data-science)
-    + [Books](#books-2)
-    + [Python](#python-1)
-      - [Books](#books-3)
-      - [Packages](#packages)
-      - [Courses](#courses-2)
-      - [Links](#links-2)
-    + [R](#r-1)
-      - [Books](#books-4)
-      - [Links](#links-3)
-      - [Courses](#courses-3)
-  * [Finance](#finance)
-    + [Books](#books-5)
-    + [Python](#python-2)
-      - [Books](#books-6)
-      - [Courses](#courses-4)
-    + [R](#r-2)
-      - [Books](#books-7)
-      - [Links](#links-4)
-      - [Courses](#courses-5)
-      - [Books](#books-8)
-  * [Quantitative Economics](#quantitative-economics)
-    + [Python](#python-3)
-      - [Packages](#packages-1)
-      - [Lectures](#lectures)
-  * [Time Series](#time-series)
-    + [Books](#books-9)
-    + [R](#r-3)
-      - [Books](#books-10)
-      - [Links](#links-5)
-  * [Econometrics](#econometrics)
-    + [R](#r-4)
-      - [Books](#books-11)
-      - [Link](#link)
-  * [NLP](#nlp)
-    + [Python](#python-4)
-      - [Packages](#packages-2)
-      - [Books](#books-12)
-      - [Courses](#courses-6)
-  * [Deep Learning](#deep-learning)
-    + [Python](#python-5)
-      - [Books](#books-13)
-      - [Courses](#courses-7)
-  * [Web Development](#web-development)
-    + [Python](#python-6)
-      - [Packages](#packages-3)
-      - [Books](#books-14)
-      - [Courses](#courses-8)
-    + [R](#r-5)
-      - [Packages](#packages-4)
-  * [Linux and Shell/Bash](#linux-and-shell-bash)
-      - [Books](#books-15)
-      - [Links](#links-6)
-      - [Courses, Guides, Lectures, etc](#courses--guides--lectures--etc)
-  * [Documentation and Style Guide](#documentation-and-style-guide)
-  * [Data Sets](#data-sets)
-  * [Computer Science](#computer-science)
+* [Collection of data science focused resources](#collection-of-data-science-focused-resources)
+   * [Python](#python)
+      * [Books](#books)
+      * [Courses](#courses)
+      * [Links](#links)
+   * [R](#r)
+      * [Books](#books-1)
+      * [Links](#links-1)
+      * [Courses](#courses-1)
+   * [SQL](#sql)
+   * [Books](#books-2)
+      * [Courses](#courses-2)
+   * [Data Science](#data-science)
+      * [Books](#books-3)
+      * [Python](#python-1)
+         * [Books](#books-4)
+         * [Courses](#courses-3)
+         * [Links](#links-2)
+      * [R](#r-1)
+         * [Books](#books-5)
+         * [Links](#links-3)
+         * [Courses](#courses-4)
+   * [Finance](#finance)
+      * [Books](#books-6)
+      * [Python](#python-2)
+         * [Books](#books-7)
+         * [Courses](#courses-5)
+      * [R](#r-2)
+         * [Books](#books-8)
+         * [Links](#links-4)
+         * [Courses](#courses-6)
+         * [Books](#books-9)
+   * [Quantitative Economics](#quantitative-economics)
+      * [Python](#python-3)
+         * [Packages](#packages)
+         * [Lectures](#lectures)
+   * [Time Series](#time-series)
+      * [Books](#books-10)
+      * [R](#r-3)
+         * [Books](#books-11)
+         * [Links](#links-5)
+   * [Econometrics](#econometrics)
+      * [R](#r-4)
+         * [Books](#books-12)
+         * [Link](#link)
+   * [NLP](#nlp)
+      * [Python](#python-4)
+         * [Packages](#packages-1)
+         * [Books](#books-13)
+         * [Courses](#courses-7)
+   * [Deep Learning](#deep-learning)
+      * [Books](#books-14)
+      * [Python](#python-5)
+         * [Books](#books-15)
+         * [Courses](#courses-8)
+   * [Web Development](#web-development)
+      * [Python](#python-6)
+         * [Packages](#packages-2)
+         * [Books](#books-16)
+         * [Courses](#courses-9)
+      * [R](#r-5)
+         * [Packages](#packages-3)
+   * [Linux and Shell/Bash](#linux-and-shellbash)
+         * [Books](#books-17)
+         * [Links](#links-6)
+         * [Courses, Guides, Lectures, etc](#courses-guides-lectures-etc)
+   * [Documentation and Style Guide](#documentation-and-style-guide)
+   * [Data Sets](#data-sets)
+   * [Computer Science](#computer-science)
 
 ## Python
 
@@ -118,6 +121,17 @@ Useful programming and data science focused resources for daily work.
 
 * [Mastering Software Development in R Specialization - Coursera](https://www.coursera.org/specializations/r) `Paid`
 
+## SQL
+
+## Books
+
+* [SQL Cookbook: Query Solutions and Techniques for All SQL Users](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/) `Paid`
+
+### Courses
+
+* [PostgreSQL for Everybody](https://www.pg4e.com) `Free`
+* [SQL for Data Analysis - Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198) `Free`
+
 ## Data Science
 
 ### Books
@@ -143,15 +157,9 @@ Useful programming and data science focused resources for daily work.
 * [Think Stats 2e - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/) `Free`
 * [Web Scraping with Python - Ryan Mitchell](https://www.oreilly.com/library/view/web-scraping-with/9781491985564/) `Paid`
 
-#### Packages
-
-* [numpy - Scientific Computing Library](https://numpy.org/)
-* [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
-* [scikit-learn - Machine Learning in Python](https://scikit-learn.org/)
-* [snorkel - Weak Supervision Framework](https://www.snorkel.org/)
-
 #### Courses
 
+* [Applied Data Science with Python Specialization - Coursera] (https://www.coursera.org/specializations/data-science-python)
 * [Foundations of Machine Learning - Bloomberg ML EDU](https://bloomberg.github.io/foml/) `Free`
 
 #### Links
@@ -405,6 +413,5 @@ Useful programming and data science focused resources for daily work.
 
 ## Computer Science
 
-* [PostgreSQL for Everybody](https://www.pg4e.com) `Free`
 * [Think Complexity 2e - Allen B. Downey](https://greenteapress.com/wp/think-complexity-2e/) `Free`
 * [Think DSP: Digital Signal Processing in Python - Allen B. Downey](https://greenteapress.com/wp/think-dsp/) `Free`
