@@ -159,7 +159,7 @@ Useful programming and data science focused resources for daily work.
 
 #### Courses
 
-* [Applied Data Science with Python Specialization - Coursera] (https://www.coursera.org/specializations/data-science-python)
+* [Applied Data Science with Python Specialization - Coursera](https://www.coursera.org/specializations/data-science-python)
 * [Foundations of Machine Learning - Bloomberg ML EDU](https://bloomberg.github.io/foml/) `Free`
 
 #### Links
