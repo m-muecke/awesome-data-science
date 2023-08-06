@@ -15,7 +15,7 @@ Useful programming and data science focused resources for daily work.
       * [Links](#links-1)
       * [Courses](#courses-1)
    * [SQL](#sql)
-   * [Books](#books-2)
+      * [Books](#books-2)
       * [Courses](#courses-2)
    * [Data Science](#data-science)
       * [Books](#books-3)
@@ -123,7 +123,7 @@ Useful programming and data science focused resources for daily work.
 
 ## SQL
 
-## Books
+### Books
 
 * [SQL Cookbook: Query Solutions and Techniques for All SQL Users](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/) `Paid`
 
