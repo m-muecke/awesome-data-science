@@ -146,6 +146,11 @@ Useful programming and data science focused resources for daily work.
 * [Statistical Learning with Sparsity: The Lasso and Generalization - Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf) `Free`
 * [Think Bayes - Allen B. Downey](http://greenteapress.com/wp/think-bayes/) `Free`
 
+### Courses
+
+* [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) `Paid`
+* [IBM Data Science Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) `Paid`
+
 ### Python
 
 #### Books
