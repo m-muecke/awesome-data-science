@@ -243,7 +243,7 @@ Useful programming and data science focused resources for daily work.
 - [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
 - [ECON 424/CFRM 462: Computational Finance and Financial Econometrics - University of Washington](https://faculty.washington.edu/ezivot/econ424/424syllabus.htm) `Free`
 - [FRE7241 Algorithmic Portfolio Management - NYU](https://github.com/algoquant/lecture_slides) `Free`
-- [FRE6871 R in Finance - NYU](https://github.com/algoquant/lecture_slides)
+- [FRE6871 R in Finance - NYU](https://github.com/algoquant/lecture_slides) `Free`
 
 ## Quantitative Economics
 
