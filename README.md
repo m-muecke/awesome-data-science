@@ -67,8 +67,9 @@ Useful programming and data science focused resources for daily work.
     - [R](#r-5)
       - [Packages](#packages-3)
   - [Linux and Shell/Bash](#linux-and-shellbash)
-    _ [Books](#books-17)
-    _ [Links](#links-6) \* [Courses, Guides, Lectures, etc](#courses-guides-lectures-etc)
+    - [Books](#books-17)
+    - [Links](#links-6)
+    - [Courses, Guides, Lectures, etc](#courses-guides-lectures-etc)
   - [Documentation and Style Guide](#documentation-and-style-guide)
   - [Data Sets](#data-sets)
   - [Computer Science](#computer-science)
@@ -363,6 +364,7 @@ Useful programming and data science focused resources for daily work.
 - [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
 - [Outstanding User Interfaces with Shiny - David Granjon](https://unleash-shiny.rinterface.com/index.html) `Free`
 - [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
+
 #### Packages
 
 - [Shiny - Build interactive web applications](https://shiny.rstudio.com/)
