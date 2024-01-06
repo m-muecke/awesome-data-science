@@ -202,6 +202,7 @@ Useful programming and data science focused resources for daily work.
 
 - [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
 - [Numerical Methods and Optimization in Finance - Manfred Gilli, Dietmar Maringer and Enrico Schumann](http://enricoschumann.net/NMOF.htm) `Paid`
+- [Statistics and Data Analysis for Financial Engineering (with R examples) - David Ruppert and David S. Matteson](https://people.orie.cornell.edu/davidr/SDAFE2/index.html) `Paid`
 
 ### Python
 
@@ -223,7 +224,9 @@ Useful programming and data science focused resources for daily work.
 #### Books
 
 - [Basic R for Finance - Diethelm Würtz, Tobias Setz, Yohan Chalabi, Longhow Lam, Andrew Ellis](https://www.rmetrics.org/ebooks-basicr) `Free`
+- [Financial Data and Models Using R - Clifford Ang](http://www.cliffordang.com) `Paid`
 - [Financial Optimisation with R - Enrico Schumann](http://enricoschumann.net/files/NMOFman.pdf) `Free`
+- [Financial Risk Modelling and Portfolio Optimization with R - Bernhard Pfaff](https://www.pfaffikus.de/books/wiley/) `Paid`
 - [Introduction to Computational Finance and Financial Econometrics with R - Eric Zivot](https://bookdown.org/compfinezbook/introcompfinr/) `Free`
 - [Machine Learning for Factor Investing - Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/) `Free`
 - [Portfolio Management with R - Enrico Schumann ](http://enricoschumann.net/R/packages/PMwR/manual/PMwR.html) `Free`
@@ -239,6 +242,8 @@ Useful programming and data science focused resources for daily work.
 
 - [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
 - [ECON 424/CFRM 462: Computational Finance and Financial Econometrics - University of Washington](https://faculty.washington.edu/ezivot/econ424/424syllabus.htm) `Free`
+- [FRE7241 Algorithmic Portfolio Management - NYU](https://github.com/algoquant/lecture_slides) `Free`
+- [FRE6871 R in Finance - NYU](https://github.com/algoquant/lecture_slides)
 
 ## Quantitative Economics
 
