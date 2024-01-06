@@ -109,6 +109,7 @@ Useful programming and data science focused resources for daily work.
 - [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
 - [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
 - [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
+- [Tidy design principles - Hadley Wickham](https://design.tidyverse.org) `Free`
 
 ### Links
 
@@ -238,13 +239,6 @@ Useful programming and data science focused resources for daily work.
 - [Applying Data Analytics in Finance - Coursera](https://www.coursera.org/learn/applying-data-analytics-business-in-finance) `Paid`
 - [ECON 424/CFRM 462: Computational Finance and Financial Econometrics - University of Washington](https://faculty.washington.edu/ezivot/econ424/424syllabus.htm) `Free`
 
-#### Books
-
-- [Engineering Production-Grade Shiny Apps - Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard](https://engineering-shiny.org/index.html) `Free`
-- [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
-- [Outstanding User Interfaces with Shiny - David Granjon](https://unleash-shiny.rinterface.com/index.html) `Free`
-- [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
-
 ## Quantitative Economics
 
 ### Python
@@ -363,6 +357,12 @@ Useful programming and data science focused resources for daily work.
 
 ### R
 
+#### Books
+
+- [Engineering Production-Grade Shiny Apps - Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard](https://engineering-shiny.org/index.html) `Free`
+- [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/) `Free`
+- [Outstanding User Interfaces with Shiny - David Granjon](https://unleash-shiny.rinterface.com/index.html) `Free`
+- [blogdown: Creating Websites with R Markdown - Yihui Xie, Amber Thomas, Alison Presmanes Hill](https://bookdown.org/yihui/blogdown/) `Free`
 #### Packages
 
 - [Shiny - Build interactive web applications](https://shiny.rstudio.com/)
