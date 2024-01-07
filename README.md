@@ -92,7 +92,7 @@ Useful programming and data science focused resources for daily work.
 
 ### Links
 
-- [Github Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
+- [GitHub Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
 
 ## R
 
@@ -115,7 +115,7 @@ Useful programming and data science focused resources for daily work.
 ### Links
 
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
-- [Github Curated List: Awesome R](https://github.com/qinwf/awesome-R)
+- [GitHub Curated List: Awesome R](https://github.com/qinwf/awesome-R)
 
 ### Courses
 
@@ -169,7 +169,7 @@ Useful programming and data science focused resources for daily work.
 
 #### Links
 
-- [Github Curated List: Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
+- [GitHub Curated List: Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
 
 ### R
 
@@ -189,7 +189,7 @@ Useful programming and data science focused resources for daily work.
 
 #### Links
 
-- [Github Curated List: Data Science R](https://github.com/ujjwalkarn/DataScienceR)
+- [GitHub Curated List: Data Science R](https://github.com/ujjwalkarn/DataScienceR)
 
 #### Courses
 
@@ -203,6 +203,10 @@ Useful programming and data science focused resources for daily work.
 - [Bayesian Stability Concepts for Investment Managers - Diethelm Würtz, Tobias Setz](https://www.rmetrics.org/ebooks-stability) `Free`
 - [Numerical Methods and Optimization in Finance - Manfred Gilli, Dietmar Maringer and Enrico Schumann](http://enricoschumann.net/NMOF.htm) `Paid`
 - [Statistics and Data Analysis for Financial Engineering (with R examples) - David Ruppert and David S. Matteson](https://people.orie.cornell.edu/davidr/SDAFE2/index.html) `Paid`
+
+### Links
+
+- [GitHub Curated List: Awesome Quant](https://github.com/wilsonfreitas/awesome-quant)
 
 ### Python
 
@@ -376,6 +380,13 @@ Useful programming and data science focused resources for daily work.
 - [blogdown - Create websites with R Mardown](https://github.com/rstudio/blogdown)
 - [plumber - A web API generator for R](https://www.rplumber.io/)
 
+## Docker
+
+### R
+
+- [r-minimal: Minimal Docker images for R](https://github.com/r-hub/r-minimal)
+- [Rocker Project: Docker Containers for the R Environment](https://rocker-project.org)
+
 ## Linux and Shell/Bash
 
 #### Books
@@ -384,10 +395,10 @@ Useful programming and data science focused resources for daily work.
 
 #### Links
 
-- [Github Curated List: Bash Resources](https://github.com/awesome-lists/awesome-bash)
-- [Github Curated List: Linux Ecosystem Overview](https://github.com/aleksandar-todorovic/awesome-linux)
-- [Github Curated List: List of Shell command-line frameworks](https://github.com/alebcay/awesome-shell)
-- [Github Curated List: Software for Linux](https://github.com/luongvo209/Awesome-Linux-Software)
+- [GitHub Curated List: Bash Resources](https://github.com/awesome-lists/awesome-bash)
+- [GitHub Curated List: Linux Ecosystem Overview](https://github.com/aleksandar-todorovic/awesome-linux)
+- [GitHub Curated List: List of Shell command-line frameworks](https://github.com/alebcay/awesome-shell)
+- [GitHub Curated List: Software for Linux](https://github.com/luongvo209/Awesome-Linux-Software)
 
 #### Courses, Guides, Lectures, etc
 
