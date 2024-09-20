@@ -11,7 +11,7 @@ Useful programming and data science focused resources for daily work.
     - [Links](#links)
   - [R](#r)
     - [Books](#books-1)
-    - [Blog](#blog)
+    - [Blogs](#blogs)
     - [Links](#links-1)
     - [Courses](#courses-1)
   - [SQL](#sql)
@@ -121,7 +121,7 @@ Useful programming and data science focused resources for daily work.
 - [r-bloggers](https://www.r-bloggers.com)
 - [tidyverse](https://www.tidyverse.org/blog/)
 - [Posit](https://posit.co/blog/)
-- [data-table](https://rdatatable-community.github.io/The-Raft/)
+- [data.table](https://rdatatable-community.github.io/The-Raft/)
 
 ### Links
 
