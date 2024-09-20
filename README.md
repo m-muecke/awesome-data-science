@@ -52,7 +52,6 @@ Useful programming and data science focused resources for daily work.
       - [Link](#link)
   - [NLP](#nlp)
     - [Python](#python-4)
-      - [Packages](#packages-1)
       - [Books](#books-13)
       - [Courses](#courses-7)
   - [Deep Learning](#deep-learning)
@@ -318,15 +317,6 @@ Useful programming and data science focused resources for daily work.
 
 ### Python
 
-#### Packages
-
-- [Hugging Face: Transformers - State-of-the-art Natural Language Processing for Pytorch and TF 2.0](https://huggingface.co/transformers/)
-- [NLTK – Natural Language Toolkit](https://www.nltk.org/)
-- [Stanza – Stanford CoreNLP Interface](https://stanfordnlp.github.io/stanza/)
-- [TextBlob – Simplified Text Processing](https://textblob.readthedocs.io/en/dev/)
-- [gensim – Topic Modelling for Humans](https://radimrehurek.com/gensim/)
-- [spaCy – Industrial-Strength NLP](https://spacy.io/)
-
 #### Books
 
 - [Applied Text Analysis with Python - Benjamin Bengfort, Rebecca Bilbro, Tony Ojeda](https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/) `Paid`
@@ -362,9 +352,13 @@ Useful programming and data science focused resources for daily work.
 
 #### Packages
 
-- [Django - high-level Python web framework](https://www.djangoproject.com/)
-- [FastAPI - modern, fast (high-performance), web framework for building APIs](https://fastapi.tiangolo.com/)
-- [Flask - lightweight WSGI web application framework](https://flask.palletsprojects.com/)
+- [Django - High-level Python web framework](https://www.djangoproject.com/)
+- [FastAPI - Modern, fast (high-performance), web framework for building APIs](https://fastapi.tiangolo.com/)
+- [FastHTML - Modern web applications in pure Python](https://www.fastht.ml)
+- [Flask - Lightweight WSGI web application framework](https://flask.palletsprojects.com/)
+- [Gradio - Build & share delightful ML apps](https://www.gradio.app)
+- [Shiny for Python - Effortless Python web applications](https://shiny.posit.co/py/)
+- [Streamlit - A faster way to build and share data apps](https://streamlit.io/)
 
 #### Books
 
