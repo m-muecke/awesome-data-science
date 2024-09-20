@@ -110,7 +110,7 @@ Useful programming and data science focused resources for daily work.
 - [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/) `Free`
 - [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
 - [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
-- [R in Production](https://r-in-production.org) `Free`
+- [R in Production - Hadley Wickham](https://r-in-production.org) `Free`
 - [Tidy design principles - Hadley Wickham](https://design.tidyverse.org) `Free`
 - [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
 
