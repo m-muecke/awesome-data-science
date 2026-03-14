@@ -104,7 +104,9 @@ Useful programming and data science focused resources for daily work.
 - [Cookbook for R - Winston Chang](http://www.cookbook-r.com/) `Free`
 - [Efficient R Programming - C. Gillespie and R. Lovelace](https://csgillespie.github.io/efficientR/) `Free`
 - [Functional Programming - Sara Altman, Bill Behrman, Hadley Wickham](https://dcl-prog.stanford.edu/index.html) `Free`
+- [Happy Git and GitHub for the useR - Jenny Bryan](https://happygitwithr.com/) `Free`
 - [Hands-On Programming with R - Garrett Grolemund](https://rstudio-education.github.io/hopr/) `Free`
+- [ggplot2: Elegant Graphics for Data Analysis (3e) - Hadley Wickham](https://ggplot2-book.org/) `Free`
 - [Mastering Software Development in R - Roger D. Peng](https://bookdown.org/rdpeng/RProgDA/) `Free`
 - [R Markdown Cookbook - Yihui Xie, Christophe Dervieux, Emily Riederer](https://bookdown.org/yihui/rmarkdown-cookbook/) `Free`
 - [R Markdown: The Definitive Guide - Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/) `Free`
@@ -112,6 +114,7 @@ Useful programming and data science focused resources for daily work.
 - [R for Everyone - Jared Lander](https://www.jaredlander.com/r-for-everyone/) `Paid`
 - [R in Production - Hadley Wickham](https://r-in-production.org) `Free`
 - [Tidy design principles - Hadley Wickham](https://design.tidyverse.org) `Free`
+- [What They Forgot to Teach You About R - Jenny Bryan, Jim Hester, Shannon Pileggi](https://rstats.wtf/) `Free`
 - [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
 
 ### Blogs
@@ -125,8 +128,11 @@ Useful programming and data science focused resources for daily work.
 
 ### Links
 
+- [Big Book of R](https://www.bigbookofr.com/)
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
 - [GitHub Curated List: Awesome R](https://github.com/qinwf/awesome-R)
+- [Quarto - Next-gen Scientific Publishing](https://quarto.org/)
+- [R-universe](https://r-universe.dev/)
 
 ### Courses
 
@@ -192,11 +198,13 @@ Useful programming and data science focused resources for daily work.
 - [Mastering Spark with R - Javier Luraschi, Kevin Kuo, Edgar Ruiz](https://therinspark.com/) `Free`
 - [R Graphics Cookbook - Winston Chang](https://r-graphics.org/) `Free`
 - [R Programming for Data Science - Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/) `Free`
-- [R for Data Science - Hadley Wickham](http://r4ds.had.co.nz/) `Free`
+- [R for Data Science (2e) - Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund](https://r4ds.hadley.nz/) `Free`
 - [Report Writing for Data Science in R - Roger D. Peng](https://leanpub.com/reportwriting?utm_source=coursera&utm_medium=syllabus&utm_campaign=CourseraSyllabus) `Free`
 - [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Chester Ismay and Albert Y. Kim](https://moderndive.com/) `Free`
 - [Supervised Machine Learning for Text Analysis in R - Emil Hvitfeldt and Julia Silge](https://smltar.com) `Free`
+- [The targets R Package User Manual - Will Landau](https://books.ropensci.org/targets/) `Free`
 - [Text Mining with R - Julia Silge and David Robinson](https://www.tidytextmining.com/) `Free`
+- [Tidy Modeling with R - Max Kuhn, Julia Silge](https://www.tmwr.org/) `Free`
 
 #### Links
 
