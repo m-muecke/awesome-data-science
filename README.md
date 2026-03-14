@@ -146,10 +146,13 @@ Useful programming and data science focused resources for daily work.
 
 ### Books
 
+- [Learning SQL (3e) - Alan Beaulieu](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) `Paid`
 - [SQL Cookbook: Query Solutions and Techniques for All SQL Users](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/) `Paid`
+- [Use The Index, Luke - Markus Winand](https://use-the-index-luke.com/) `Free`
 
 ### Courses
 
+- [Mode SQL Tutorial](https://mode.com/sql-tutorial) `Free`
 - [PostgreSQL for Everybody](https://www.pg4e.com) `Free`
 - [SQL for Data Analysis - Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198) `Free`
 
