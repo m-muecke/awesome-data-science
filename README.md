@@ -78,7 +78,9 @@ Useful programming and data science focused resources for daily work.
 
 ### Books
 
+- [Architecture Patterns with Python - Harry Percival, Bob Gregory](https://www.cosmicpython.com/) `Free`
 - [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/) `Free`
+- [Effective Python - Brett Slatkin](https://effectivepython.com/) `Paid`
 - [Fluent Python - Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python/9781491946237/) `Paid`
 - [Python for Everybody - Charles R. Severance](https://www.py4e.com/book.php) `Free`
 - [The Hitchhiker’s Guide to Python! - Kenneth Reitz and Tanya Schlusser](https://docs.python-guide.org/) `Free`
@@ -92,7 +94,8 @@ Useful programming and data science focused resources for daily work.
 
 ### Links
 
-- [GitHub Curated List: Awesome Python](https://github.com/keon/awesome-nlp)
+- [GitHub Curated List: Awesome Python](https://github.com/vinta/awesome-python)
+- [Real Python](https://realpython.com/)
 
 ## R
 
@@ -113,6 +116,7 @@ Useful programming and data science focused resources for daily work.
 - [R Packages: Organize, Test, Document, and Share Your Code - Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) `Free`
 - [R for Everyone - Jared Lander](https://www.jaredlander.com/r-for-everyone/) `Paid`
 - [R in Production - Hadley Wickham](https://r-in-production.org) `Free`
+- [Seamless R and C++ Integration with Rcpp - Dirk Eddelbuettel](https://link.springer.com/book/10.1007/978-1-4614-6868-4) `Paid`
 - [Tidy design principles - Hadley Wickham](https://design.tidyverse.org) `Free`
 - [What They Forgot to Teach You About R - Jenny Bryan, Jim Hester, Shannon Pileggi](https://rstats.wtf/) `Free`
 - [bookdown: Authoring Books and Technical Documents with R Markdown - Yihui Xie](https://bookdown.org/yihui/bookdown/) `Free`
@@ -183,6 +187,7 @@ Useful programming and data science focused resources for daily work.
 
 - [Applied Data Science with Python Specialization - Coursera](https://www.coursera.org/specializations/data-science-python)
 - [Foundations of Machine Learning - Bloomberg ML EDU](https://bloomberg.github.io/foml/) `Free`
+- [Machine Learning Specialization - Andrew Ng, Stanford / Coursera](https://www.coursera.org/specializations/machine-learning-introduction) `Paid`
 
 #### Links
 
@@ -350,8 +355,15 @@ Useful programming and data science focused resources for daily work.
 
 - [Deep Learning with PyTorch - Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch) `Paid`
 
+#### Packages
+
+- [Hugging Face Transformers - Pre-trained models for NLP, vision, and audio](https://github.com/huggingface/transformers)
+- [PyTorch Lightning - High-level framework for PyTorch](https://github.com/Lightning-AI/pytorch-lightning)
+
 #### Courses
 
+- [Deep Learning Specialization - Andrew Ng / DeepLearning.AI, Coursera](https://www.coursera.org/specializations/deep-learning) `Paid`
+- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/) `Free`
 - [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) `Free`
 
 ## Web Development
@@ -427,7 +439,9 @@ Useful programming and data science focused resources for daily work.
 - [Black - Python Code Formatter](https://github.com/psf/black)
 - [Google Style Guides](https://google.github.io/styleguide/)
 - [Pandoc - Universal Document Converter](https://pandoc.org/)
+- [Ruff - Fast Python Linter and Formatter](https://github.com/astral-sh/ruff)
 - [Sphinx – Python Documentation Generator](https://www.sphinx-doc.org/en/master/)
+- [uv - Fast Python Package Installer and Resolver](https://github.com/astral-sh/uv)
 - [Tidyverse Style Guide for R](https://style.tidyverse.org/)
 
 ## Data Sets
